@@ -1,3 +1,3 @@
 # questionnaire
 'Weimarer Republik - Die Kampfbuende' 
-Interactive fiction / Text-based RPG
+(Interactive fiction / Text-based RPG)
