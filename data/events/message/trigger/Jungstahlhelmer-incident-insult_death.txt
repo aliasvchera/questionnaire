@@ -1,0 +1,18 @@
+conditionTrigger | Jungstahlhelmer-incident-insult
+conditiondDate | 
+conditionPeriod | 
+conditionDeath | death+
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | Молодой реакционер был взбешен. К несчастью, у «юнгштальхельмера» в кармане лежал револьвер, который он без колебаний выхватил и три раза нажал на курок прежде чем кто-либо вокруг успел что-то сообразить. Две пули попали в Вас, одна из них оказалась смертельной.
+quotationAuthor | 
+pictureName | 545705579_Funeral service for murderer members of the Reichsbanner in Hamburg Ohlsdorf.jpg
+effectMoney | 
+effectJob | 
+effectStatus | 
+effectTrigger | The-End

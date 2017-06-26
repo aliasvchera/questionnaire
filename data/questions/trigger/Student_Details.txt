@@ -1,0 +1,26 @@
+conditionTrigger | Student
+conditiondDate | 
+conditionPeriod | 
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 11 ноября 1918 года
+mainText | "Ух, ты! Так ты, значит, у нас студент. А на кого учился, кем собирался быть после получения диплома?"
+pictureName | D0R0003206970_Studenten.JPG
+answerText | Собирался стать юристом, пойти по стопам отца.#Я учился на филологическом факультете. А кем быть… Теперь даже не знаю, академическая карьера после всего этого уже соврешенно не привлекает.#Я из семьи потомственных врачей, так что выбор профессии был в общем-то преопределён.#Хотел выучиться на инженера, работать на железных дорогах или где-то в тяжёлой индустрии.#Учился на кафедре политэкономии. Мечтал получить доходное местечко в конторе какого-то флагмана индустрии или солидном банке.
+answerConditionPolitical | 
+answerConditionKampfbund | 
+effectPolitical | conservative+2#nationalist+2#conservative+2 republican+1#conservative+1 republican+1#conservative+1
+effectKampfbund | 
+effectMortality | 
+effectCustody | 
+effectCustodyTerm | 
+effectKampfbundJoinOrLeft | 
+effectMoney | 
+effectJob | 
+effectOccasion | 
+effectStatus | profession_Jurist+#profession_Journalist+#profession_Arzt+#profession_Ingenieur+#profession_Finanzier+
+effectTrigger | 

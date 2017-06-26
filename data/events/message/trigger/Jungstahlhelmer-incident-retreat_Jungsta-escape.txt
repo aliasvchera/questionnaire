@@ -1,0 +1,18 @@
+conditionTrigger | Jungstahlhelmer-incident-retreat
+conditiondDate | 
+conditionPeriod | 
+conditionDeath | 
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | «Юнгштальхельмер» посчитал за лучшее покинуть поле боя без драки и, выкрикнув проклятия, поспешил скрыться за поворотом.
+quotationAuthor | 
+pictureName | Wehrsport-Treffen des Hamburger Reichsbanners am 25. September 1932 in Schneverdingen.jpg
+effectMoney | 
+effectJob | 
+effectStatus | 
+effectTrigger | 

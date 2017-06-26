@@ -1,0 +1,26 @@
+conditionTrigger | 
+conditiondDate | 
+conditionPeriod | 1924-01#1925-12#m
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | В ходе очередной дискуссии в пивной начался спор о государственном флаге: должен ли это быть кайзеровский чёрно-бело-красный или нынешний республиканский чёрно-красно-золотой? Спорщики спросили Ваше мнение по этому вопросу.
+pictureName | dnvp_switch_2.jpg
+answerText | Мы проливали кровь под чёрно-бело-красными знамёнами, поэтому пусть нам вернут наши славные старые флаги!#Флаг Германии - чёрно-красно-золотой, тут для меня двух мнений нет.#Ни то, ни другое: Германия должна стать советской республикой, а её флагом - красное знамя!#Сейчас настоящие немецкие патриоты выступают под флагом со свастикой.#Да какая разница? Мы что, от этого жить станем лучше?
+answerConditionPolitical | 
+answerConditionKampfbund | 
+effectPolitical | conservative+2 nationalist+1#republican+2#socialist+2#nationalist+2#
+effectKampfbund | 
+effectMortality | 
+effectCustody | 
+effectCustodyTerm | 
+effectKampfbundJoinOrLeft | 
+effectMoney | 
+effectJob | 
+effectOccasion | 
+effectStatus | 
+effectTrigger | 

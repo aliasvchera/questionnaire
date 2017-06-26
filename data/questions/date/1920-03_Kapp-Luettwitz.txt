@@ -1,0 +1,26 @@
+conditionTrigger | 
+conditiondDate | 1920-03
+conditionPeriod | 
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | 10 марта 1920 года начался так называемый путч Каппа-Лютвица. Что делали Вы в эти неспокойные дни?
+pictureName | Putschisten mit kaiserlicher Kriegsflagge, 1920.jpg
+answerText | Маршировал в рядах путчистов.#Вывесил из окна кайзеровский чёрно-бело-красный флаг и поднимал тосты за кайзера, Каппа, Лютвица и Эрхардта.#Принял участие в объявленной законным правительством всеобщей забастовке.#Поехал в Рур и вступил в Красную армию.#Решил благоразумно выжидать, гадая, чем же всё это завершится.
+answerConditionPolitical | 
+answerConditionKampfbund | 
+effectPolitical | conservative+2 nationalist+3#conservative+2 nationalist+1#socialist+1 republican+3#socialist+3 republican+1#
+effectKampfbund | STA+3 SA+3##RB+1#RFB+3#
+effectMortality | 0,2###0,3#
+effectCustody | 
+effectCustodyTerm | 
+effectKampfbundJoinOrLeft | 
+effectMoney | 
+effectJob | 
+effectOccasion | 
+effectStatus | Freikorps-#Freikorps-#Freikorps-#Freikorps-#Freikorps-
+effectTrigger | Kapp-Luettwitz-1920###Ruhr-Rote-Armee-1920#

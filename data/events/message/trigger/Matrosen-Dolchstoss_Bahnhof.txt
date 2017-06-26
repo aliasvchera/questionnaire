@@ -1,0 +1,18 @@
+conditionTrigger | Matrosen-Dolchstoss
+conditiondDate | 
+conditionPeriod | 
+conditionDeath | 
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | Взбешенные матросы хотели уже накинутся на Вас с кулаками, но вовремя подоспевшие однополчане заставили их, выкрикивая ругательства, убраться восвояси.
+quotationAuthor | 
+pictureName | return of the fronline troops Soldiers of the 76st Inf. reg. from Hamburg after their arrival at the Hamburg-Hannov. station.jpeg
+effectMoney | 
+effectJob | 
+effectStatus | 
+effectTrigger | 

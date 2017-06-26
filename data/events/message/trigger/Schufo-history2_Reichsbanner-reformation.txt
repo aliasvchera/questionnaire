@@ -1,0 +1,18 @@
+conditionTrigger | Schufo-history2
+conditiondDate | 
+conditionPeriod | 
+conditionDeath | 
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | Шуфо
+mainText | Главной обязанностью этих новых «шуфо» было оборонять республику от возможного нацистского путча или коммунистической революции. До того времени, однако, их обязанностью было осуществлять более эффективную охрану митингов и массовых мероприятий во время агитационных и предвыборных кампаний и служить более дисциплинированным визуальным символом верности республики. @@@Униформа «шуфо» состояла из синей фуражки, зелёной рубашки, портупеи и чёрных брюк с кожаными крагами, поэтому их называли «зелёнорубашечниками», подобно «серо-зёлёным» «Стального шлема» и «коричневорубашечнам» СА.
+quotationAuthor | 
+pictureName | 545967741_Parade of the Reichsbanner in Leipzig on occasion of their 7th year of existence The protection formations parade for the first time.jpg
+effectMoney | 
+effectJob | 
+effectStatus | 
+effectTrigger | Schufo-history3

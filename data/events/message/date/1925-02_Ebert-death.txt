@@ -1,0 +1,18 @@
+conditionTrigger | 
+conditiondDate | 1925-02
+conditionPeriod | 
+conditionDeath | 
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 28 февраля 1925 года
+mainText | Вследствие осложнившегося аппендицита умер рейхспрезидент Фридрих Эберт.@@@Временно исполняющим обязанности рейхспрезидента первоначально стал рейхсканцлер Ханс Лютер (беспартийный), а уже с 12 марта – президент Имперского верховного суда Вальтер Симонс (беспартийный).@@@Выборы были назначены на 29 марта 1925 года.
+quotationAuthor | 
+pictureName | fa040724_Beisetzung von Friedrich Ebert. Aufbahrung im Palais des Reichspraesidenten, 3.3.1925.jpg
+effectMoney | 
+effectJob | 
+effectStatus | 
+effectTrigger | 

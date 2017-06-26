@@ -1,0 +1,26 @@
+conditionTrigger | 
+conditiondDate | 
+conditionPeriod | 1930-01#1931-12#m
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | RB+
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | Вы с тремя другими рейхсбаннерманнами дежурили возле входа в трактир «Вяхирь» («Рингельтаубе») – излюбленное место встреч Вашего отряда. И тут проходящий мимо великовозрастной молодчик из «Юнгшта» позволил себе кинуть в вашу сторону оскорбления на тему «чёрно-красно-дерьмового» флага. Как реагировать на такую возмутительную провокацию?
+pictureName | img0181_Jungstahlhelmbund member.jpg
+answerText | Эй, ребята, давайте сейчас выбьем всё дерьмо из этого монархического пижона!#Спокойно! Не поддаваться на провокации! (юнгштальхельмеру) А ну проваливай, иначе вызову полицию!#Ублюдок, а ну вали отсюда, пока все зубы ещё на месте!#(подойдя и плюнув в харю реакционеру) На!#
+answerConditionPolitical | 
+answerConditionKampfbund | 
+effectPolitical | 
+effectKampfbund | RB+2##RB+1#RB+1#
+effectMortality | 0,35###0,15#
+effectCustody | 
+effectCustodyTerm | 
+effectKampfbundJoinOrLeft | 
+effectMoney | 
+effectJob | 
+effectOccasion | 
+effectStatus | 
+effectTrigger | Jungstahlhelmer-incident-fight#Jungstahlhelmer-incident-retreat#Jungstahlhelmer-incident-retreat#Jungstahlhelmer-incident-insult#

@@ -1,0 +1,18 @@
+conditionTrigger | 
+conditiondDate | 1922-06
+conditionPeriod | 
+conditionDeath | 
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | Берлин, 24 июня. По официальному сообщению сегодня в первой половине дня министр Ратенау, вскоре после того, как он покинул свою виллу в Груневальде, чтобы отправиться в министерство иностранных дел, был застрелен и умер на месте. Преступник ехал рядом на машине и после совершенного действия умчался дальше.
+quotationAuthor | Сообщение газеты «Берлинер Тагеблатт»
+pictureName | Plakatanschlag zum Rathenau-Mord, 1922.jpg
+effectMoney | 
+effectJob | 
+effectStatus | 
+effectTrigger | Ermordung-Rathenaus

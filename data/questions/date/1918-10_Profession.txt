@@ -1,0 +1,26 @@
+conditionTrigger | 
+conditiondDate | 1918-10
+conditionPeriod | 
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 11 ноября 1918 года
+mainText | На Западном фронте объявлено перемирие, ожидается отправка домой и демобилизация. Один из солдат Вашей роты начал разговор: "Эх, неужели скоро попаду домой? Там землица и хозяйство уже меня заждались! А ты кем был до войны?"
+pictureName | arbeiter-ruhrgebiet.jpg
+answerText | Я крестьянин как и ты. Да… хочется увидеть поскорей свою землю!#Работал на заводе. У нас вся семья  – и отец, и дед – рабочие.#Был студентом, из университета и пошёл вместе с друзьями в армию добровольцем.#Я школьный учитель. Пару лет перед войной успел в сельской школе попреподавать.#В конторе служащим состоял прежде чем мобилизовали.
+answerConditionPolitical | 
+answerConditionKampfbund | 
+effectPolitical | conservative+2#socialist+2#nationalist+1#republican+2#republican+1 convervative+1
+effectKampfbund | 
+effectMortality | 
+effectCustody | 
+effectCustodyTerm | 
+effectKampfbundJoinOrLeft | 
+effectMoney | 
+effectJob | 
+effectOccasion | 
+effectStatus | profession_Bauer+#profession_Arbeiter+#profession_Student+#profession_Lehrer+#profession_Angestellte+
+effectTrigger | ##Student##

@@ -1,0 +1,18 @@
+conditionTrigger | Kapp-Luettwitz-1920
+conditiondDate | 
+conditionPeriod | 
+conditionDeath | death+
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | Вы погибли в ходе уличных столкновений в тревожные дни Капповского путча.
+quotationAuthor | 
+pictureName | 545968341_Kapp Putsch Barricades put up by the putschists in Berlin March 1920.jpg
+effectMoney | 
+effectJob | 
+effectStatus | 
+effectTrigger | The-End

@@ -1,0 +1,26 @@
+conditionTrigger | 
+conditiondDate | 1922-06
+conditionPeriod | 
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | 24 июня 1922 года все газеты напечатали срочное сообщение о том, что рейхсминистр иностранных дел Вальтер Ратенау был убит по пути на работу террористами из подпольной "Организации Консул"; убийцам удалось скрыться. По всей Германии это событие всколыхнуло людей, они массово выходили на стихийные митинги и демонстрации, убийство стало темой горячих дискуссий в рейхстаге и на улицах. О чём Вы думали, наблюдая всё это в те дни?
+pictureName | Republiktreue Demonstration nach der Ermordung des Reichsaussenministers Walther Rathenau, Berlin, 27. Juni 1922.jpg
+answerText | Это удар в самое сердце молодой республики! Но пусть старорежимные господа не надеются, новая Германия выстоит несмотря на все невзгоды и происки её врагов!#Раньше капиталисты руками своих наёмников из фрайкоров расстреливали пролетарских революционеров, теперь же эти оставшиеся не у дел ландснехты принялись за своих бывших хозяев. Что ж, министр-промышленник сам копал себе могилу!#Ещё один! Прекрасно! Надеюсь, патриоты из О.К. скоро перестреляют всех этих паршивых "ноябрьских преступников"!#Слишком много внимания какому-то мёртвому еврею!#Политические убийства не прекращаются с окончания войны, по-моему все уже как-то с ними свыклись…
+answerConditionPolitical | 
+answerConditionKampfbund | 
+effectPolitical | republican+2#socialist+2#conservative+1 nationalist+2#conservative+2 nationalist+1#
+effectKampfbund | 
+effectMortality | 
+effectCustody | 
+effectCustodyTerm | 
+effectKampfbundJoinOrLeft | 
+effectMoney | 
+effectJob | 
+effectOccasion | 
+effectStatus | 
+effectTrigger | Rathenau#Rathenau#Rathenau#Rathenau#Rathenau

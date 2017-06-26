@@ -1,0 +1,18 @@
+conditionTrigger | Jungstahlhelmer-incident-fight
+conditiondDate | 
+conditionPeriod | 
+conditionDeath | death+
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | К несчастью, у «юнгштальхельмера» оказался в кармане револьвер. Он успел три раза нажать на курок прежде чем кто-либо вокруг что-то сообразил. Две пули попали в Вас, одна из них оказалась смертельной.
+quotationAuthor | 
+pictureName | 545705579_Funeral service for murderer members of the Reichsbanner in Hamburg Ohlsdorf.jpg
+effectMoney | 
+effectJob | 
+effectStatus | 
+effectTrigger | The-End

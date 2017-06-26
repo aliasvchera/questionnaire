@@ -1,0 +1,18 @@
+conditionTrigger | Disloyal-philistine
+conditiondDate | 
+conditionPeriod | 
+conditionDeath | death+
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | activist+
+usedMax | 1
+captionText | После 1933 года
+mainText | Вы никогда не были сторонником нацистского режима, но что могли сделать? С началом войны удалось избежать призыва, получив бронь на военном заводе, где Вы работали. Роковым стал тот день, когда неосторожно рассказанный политический анекдот был подслушан "бдительным" сотрудником. По его доносу Вас с приятелем арестовало гестапо. За "подрыв обороноспособности Рейха" суд приговорил обоих к смертной казни. Через две недели приговор был приведён в исполнение.
+quotationAuthor | 
+pictureName | gilotyna-w-wiezieniu-na-mlynskiej-1945-r,pic1,1017,58679,78704,show2.jpg
+effectMoney | 
+effectJob | 
+effectStatus | 
+effectTrigger | The-End

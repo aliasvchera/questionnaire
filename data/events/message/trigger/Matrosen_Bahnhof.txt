@@ -1,0 +1,18 @@
+conditionTrigger | Matrosen
+conditiondDate | 
+conditionPeriod | 
+conditionDeath | 
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | Судьба революции будет решаться в столице, поэтому Ваш отряд выехал на соединение с «красной» Народной морской дивизией в Берлин.@@@Скоро станет горячо.
+quotationAuthor | 
+pictureName | ph003094_Novemberrevolution in Berlin, 1918.jpg
+effectMoney | 
+effectJob | 
+effectStatus | 
+effectTrigger | 

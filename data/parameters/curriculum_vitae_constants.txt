@@ -1,0 +1,7 @@
+STATUS_NAME | TEXT_FOR_CV
+profession_Bauer | крестьянин
+profession_Arbeiter | рабочий
+profession_Student | студент
+profession_Lehrer | учитель
+profession_Angestellte | служащий
+WWI | учасник мировой войны,

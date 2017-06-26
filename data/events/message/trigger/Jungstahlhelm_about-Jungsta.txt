@@ -1,0 +1,18 @@
+conditionTrigger | Jungstahlhelm
+conditiondDate | 
+conditionPeriod | 
+conditionDeath | 
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | Юнгштальхельм
+mainText | Военизированные организации правого лагеря где-то с 1924 года начали готовить, по их определению, «крепкую, здоровую, закалённую, националистическую молодёжь», которая должна была помочь смыть «позор» 1918 года. Они фокусировались на военном воспитании подрастающего поколения как альтернативе запрещённого призыва на срочную военную службу. Одетые в униформу военизированные и имеющие характер «мужских союзов» организации усиливались в том числе и из-за низкого интереса молодежи к «веймарским» партиям.
+quotationAuthor | 
+pictureName | tumblr_mc5c4puvtP1r6y3vao1_500.jpg
+effectMoney | 
+effectJob | 
+effectStatus | 
+effectTrigger | Jungstahlhelm-continue

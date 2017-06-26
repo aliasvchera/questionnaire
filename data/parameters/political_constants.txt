@@ -1,0 +1,2 @@
+ACTIVISM_RATIO_REQUIREMENT | MIN_RATIO | POLITICAL_NAMES
+0.65 | 0.3 | socialist#republican#conservative#nationalist

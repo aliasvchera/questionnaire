@@ -1,0 +1,18 @@
+conditionTrigger | Roehm-Putsch
+conditiondDate | 
+conditionPeriod | 
+conditionDeath | death-
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | activist+
+usedMax | 1
+captionText | После 1933 года
+mainText | Ваша карьера в СА пошла в гору, но всё закончилось уже через год, когда после расправы с командованием СА в ходе так называемого "путча Рёма" Вы отошли от какой-либо политической деятельности и поступили на службу в  Имперское министерство путей сообщения. Благополучно пережив войну, в новосозданной ФРГ были местным депутатом национал-консервативной Немецкой партии.
+quotationAuthor | 
+pictureName | AKG559213.jpg
+effectMoney | 
+effectJob | 
+effectStatus | 
+effectTrigger | The-End

@@ -1,0 +1,18 @@
+conditionTrigger | 
+conditiondDate | 1933-02
+conditionPeriod | 
+conditionDeath | 
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 30 января 1933 года
+mainText | Рейхспрезидент Пауль фон Гинденбург назначил Адольфа Гитлера рейхсканцлером. Было сформировано коалиционное правительство "национальной концентрации" из национал-социалистов (НСДАП) и немецких националистов (НННП).
+quotationAuthor | 
+pictureName | 310133c.jpg
+effectMoney | 
+effectJob | 
+effectStatus | 
+effectTrigger | Reichskanzler-Hitler

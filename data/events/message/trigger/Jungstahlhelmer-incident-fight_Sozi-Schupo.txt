@@ -1,0 +1,18 @@
+conditionTrigger | Jungstahlhelmer-incident-fight
+conditiondDate | 
+conditionPeriod | 
+conditionDeath | death-
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | Зарвавшемуся «юнгштальхельмеру» хорошенько досталось. «Чёрно-бело-красного» реакционера так отметелили, что он еле смог встать на ноги, когда прибыла полиция. К счастью, стражи правопорядка тоже были «соци», поэтому инцидент удалось замять и каких-либо проблем с законом у Вас не возникло.
+quotationAuthor | 
+pictureName | Bundesarchiv_Bild_102-12857,_Berlin,_Lachende_Schutzpolizisten_Dezember 1931.jpg
+effectMoney | 
+effectJob | 
+effectStatus | 
+effectTrigger | 

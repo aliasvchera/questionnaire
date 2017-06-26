@@ -1,0 +1,18 @@
+conditionTrigger | Schufo-history1
+conditiondDate | 
+conditionPeriod | 
+conditionDeath | 
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | Шуфо
+mainText | В конце 1930 года «Рейхсбаннер» реорганизовал свои отряды в двухуровневую структуру, чтобы удовлетворить своих членов, разочарованных сложившимся «мягким» образом организации. Верхний уровень состоял из охранных подразделений «шуфо» (Schutzformationen, Schufo) – молодых активных мужчин, которые получали военную и подготовку и обучались технике уличных столкновений. Нижний уровень состоял из резервных сил «штафо» (Stammformationen, Stafo) – мужчин в возрасте и прочих, кто не мог или не хотел принимать постоянное участие в деятельности организации или военной подготовке. К весне 1931 года 250 000 новых членов было набрано (сам «Рейхсбаннер» заявлял о 400 000), что демонстрировало возрождение стагнирующего республиканского боевого союза.
+quotationAuthor | 
+pictureName | Schufo2_8224df030e.jpg
+effectMoney | 
+effectJob | 
+effectStatus | 
+effectTrigger | Schufo-history2

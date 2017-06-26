@@ -1,0 +1,18 @@
+conditionTrigger | RB-escaped-to-STA
+conditiondDate | 
+conditionPeriod | 
+conditionDeath | 
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | Сказано – сделано.@@@Конечно, не все товарищи по «Рейхсбаннеру» поняли и приняли это Ваше решение. Да и в «Шта» с подозрением относились к наплыву «неофитов», но им нужно было «наращивать мускулы» чтобы достичь некоторого (какого-то) паритета с многомиллионным нацистским движением, поэтому в «штальхельмеры» Вас всё же приняли.
+quotationAuthor | 
+pictureName | Kamrad reich mir die Haende - fest wolln zusammen wir stehn, Stahlhelm.jpg
+effectMoney | 
+effectJob | 
+effectStatus | 
+effectTrigger | Neutral-philistine

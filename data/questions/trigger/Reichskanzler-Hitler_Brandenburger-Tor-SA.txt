@@ -1,0 +1,26 @@
+conditionTrigger | Reichskanzler-Hitler
+conditiondDate | 
+conditionPeriod | 
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | SA+
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 30 января 1933 года
+mainText | В тот же день СА, СС и "Стальной шлем" отпраздновали это событие триумфальным ночным факельным шествием через центр Берлина. Маршируя в рядах штурмовиков под Бранденбургскими воротами, Вы говорили себе:
+pictureName | hg_20er_9_Fackelzug von SA, SS und Stahlhelm 1933.jpg
+answerText | Коалиционное правительство с реакционерами из "кабинета баронов"? И это называется "национальной революцией"?!#И всё-таки мы победили! Это начало национальной революции и рождение Третьего Рейха, о котором мы столько мечтали! Зиг хайль!###
+answerConditionPolitical | 
+answerConditionKampfbund | 
+effectPolitical | 
+effectKampfbund | 
+effectMortality | 0,5#0,5###
+effectCustody | 
+effectCustodyTerm | 
+effectKampfbundJoinOrLeft | 
+effectMoney | 
+effectJob | 
+effectOccasion | 
+effectStatus | 
+effectTrigger | Roehm-Putsch#SS###

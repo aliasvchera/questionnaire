@@ -1,0 +1,26 @@
+conditionTrigger | 
+conditiondDate | 1918-12
+conditionPeriod | 
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | conservative- nationalist-
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | И вот наконец он, родной город.@@@На вокзале Вы увидели матросов с красными лентами и бантами. Разговорились с ними. Это оказались революционный отряд, который флотские советы Киля отправили помогать делать революцию в других городах Германии.@@@Матросы зазывали к себе: «Братишка, тебе ещё рано на гражданку. Если мы тихо разойдёмся по домам, то революция заглохнет, так и не начавшись, на радость буржуям и юнкерам. Вступай в наш отряд!»
+pictureName | Befreite_Matrosen.jpg
+answerText | Товарищи, я воевал на фронте – ради чего? Кайзера и его генералов? Юнкеров и капиталистов? Один большой обман… Но теперь вместе с вами я буду сражаться за свободу и достойную жизнь для трудового немецкого народа!#Прекращайте лучше это дело, а то начнётся такой же кровавый пожар и хаос как в России.#Без обид, ребята, но я уже навоевался, хочу поскорей домой.#Вы, тыловые крысы, предали нас, фронт и Германию, нанеся своей свинской революцией нам удар в спину!#
+answerConditionPolitical | 
+answerConditionKampfbund | 
+effectPolitical | socialist+2#republican+2 conservative+1##conservative+2 nationalist+1#
+effectKampfbund | RFB+3####
+effectMortality | 
+effectCustody | 
+effectCustodyTerm | 
+effectKampfbundJoinOrLeft | 
+effectMoney | 
+effectJob | 
+effectOccasion | 
+effectStatus | Spartakus-1919+####
+effectTrigger | Matrosen###Matrosen-Dolchstoss#

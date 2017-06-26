@@ -1,0 +1,18 @@
+conditionTrigger | Jungstahlhelmer-incident-insult
+conditiondDate | 
+conditionPeriod | 
+conditionDeath | death-
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | Молодой реакционер был взбешен, но, реально оценив соотношение сил не в свою пользу, решил, что благоразумнее будет ретироваться. Уже из-за угла дома он крикнул, что это Вам так с рук не сойдёт.
+quotationAuthor | 
+pictureName | Wehrsport-Treffen des Hamburger Reichsbanners am 25. September 1932 in Schneverdingen.jpg
+effectMoney | 
+effectJob | 
+effectStatus | 
+effectTrigger | 

@@ -1,0 +1,18 @@
+conditionTrigger | Disloyal-philistine
+conditiondDate | 
+conditionPeriod | 
+conditionDeath | death-
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | activist-
+usedMax | 1
+captionText | 
+mainText | Вы никогда не были сторонником нацистского режима, но что могли сделать? С началом войны удалось избежать призыва, получив бронь на военном заводе, где Вы работали. Пережив бомбёжки, капитуляцию и оккупацию Германии союзниками, обнаружили себя проживающим на территории новосозданной ГДР. Не всё в ней нравилось, но в общем Вы стали достаточно лояльным и добропорядочным гражданином этой социалистической части Германии.
+quotationAuthor | 
+pictureName | Bundesarchiv_Bild_183-73999-0002,_Kruckow,_Blick_auf_den_Konsum.jpg
+effectMoney | 
+effectJob | 
+effectStatus | 
+effectTrigger | The-End

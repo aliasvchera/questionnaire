@@ -1,0 +1,18 @@
+conditionTrigger | Roehm-Putsch
+conditiondDate | 
+conditionPeriod | 
+conditionDeath | death+
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | activist-
+usedMax | 1
+captionText | После 1933 года
+mainText | После расправы с руководством СА в июне 1934 года Вы довольствовались должностью руководителя по допризывной подготовке молодёжи в рядах СА в своём округе до тех пора, пока зимой 1945 года Вас не назначили командиром батальона местного фольксштурма. @@@Погибли в ходе оборонительных боёв на подступах к Одеру.
+quotationAuthor | 
+pictureName | d2a09513.jpg
+effectMoney | 
+effectJob | 
+effectStatus | 
+effectTrigger | The-End
