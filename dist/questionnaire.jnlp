@@ -8,7 +8,7 @@
   </information>
   <resources>
     <j2se version="1.6+" java-vm-args="-Djava.security.policy=applet.policy "  href="http://java.sun.com/products/autodl/j2se"/>
-    <jar href="questionnaire.jar" size="84870" download="eager" />
+    <jar href="questionnaire.jar" size="84982" download="eager" />
   </resources>
 <security>
   <all-permissions/>

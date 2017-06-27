@@ -1,1 +1,6 @@
 FILE_NAME | used
+epigraph_Remarque.txt | 1
+1918-10_Remarque.txt | 1
+11-November-1918_Remarque.txt | 1
+Frieden_Remarque.txt | 1
+1918-10_Profession.txt | 1

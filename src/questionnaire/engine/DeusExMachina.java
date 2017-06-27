@@ -76,8 +76,11 @@ public class DeusExMachina {
             If all game moments for current date & triggers are passed/realized
             start new month        
             */
-            // Stop if game over
-            // if(currentMoment.gameOver()) return; // ????????????????????????????? delete ????????????????????????
+            // Run new game if game over but final event was not shown
+            if(currentMoment.gameOver()) {
+                CoreFX.newGame();
+                return;
+            }
             // Start new month if cycle is passed
             if(currentMoment.gameMoment >= 5) {
                 nextMonth();
@@ -241,10 +244,12 @@ public class DeusExMachina {
     static Message cycleItem(String keyText) {
     // Find & process appropriate message (event/question)
         currentMessage = null;
-        
+        // avoiding from incorrect savegames
         if(currentMoment.currentMessage != null && 
                 currentMoment.currentMessage[0] != null && 
-                currentMoment.currentMessage[1] != null) { 
+                currentMoment.currentMessage[1] != null && 
+                !currentMoment.currentMessage[0].equals("null") && 
+                !currentMoment.currentMessage[1].equals("null")) {                
         // In case of previously interrupted (and saved) game continuing
             String messagePath = currentMoment.currentMessage[0] + "\\" + 
                     currentMoment.currentMessage[1];            

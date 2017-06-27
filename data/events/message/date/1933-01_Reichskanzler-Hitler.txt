@@ -1,5 +1,5 @@
 conditionTrigger | 
-conditiondDate | 1933-02
+conditiondDate | 1933-01
 conditionPeriod | 
 conditionDeath | 
 conditionOccasion | 

@@ -86,6 +86,7 @@ public class LeftPaneBookController {
     @FXML
     private void exitGame() {
         System.out.println("Exit game - step1");
+        CoreFX.saveGame();
         Platform.exit();
     }   
    

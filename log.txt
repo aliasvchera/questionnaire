@@ -954,3 +954,206 @@ Mon Jun 26 00:59:04 EEST 2017 | Left pane book (message) loaded
 Mon Jun 26 00:59:37 EEST 2017 | 10/1918
 Mon Jun 26 01:01:30 EEST 2017 | 10/1918
 Mon Jun 26 01:05:23 EEST 2017 | 10/1918
+Tue Jun 27 22:52:32 EEST 2017 | 10/1918
+Tue Jun 27 23:06:40 EEST 2017 | 10/1918
+Tue Jun 27 23:07:14 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\events\story\trigger\epigraph_Remarque.txt
+Tue Jun 27 23:07:15 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:07:33 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\events\story\date\1918-10_Remarque.txt
+Tue Jun 27 23:07:33 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:07:36 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\events\story\trigger\Frieden_Remarque.txt
+Tue Jun 27 23:07:36 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:07:39 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\events\story\trigger\11-November-1918_Remarque.txt
+Tue Jun 27 23:07:40 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:07:44 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\questions\date\1918-10_Profession.txt
+Tue Jun 27 23:07:44 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:07:51 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\events\story\date\1918-11_Remarque.txt
+Tue Jun 27 23:07:51 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:07:53 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\events\story\trigger\Train_Remarque.txt
+Tue Jun 27 23:07:53 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:07:56 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\events\story\trigger\Train-continue_Remarque.txt
+Tue Jun 27 23:07:56 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:08:07 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\questions\date\1918-11_Kaiser.txt
+Tue Jun 27 23:08:07 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:08:20 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\events\story\date\1918-12_Remarque.txt
+Tue Jun 27 23:08:21 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:08:23 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\events\story\trigger\Heimat_Remarque.txt
+Tue Jun 27 23:08:23 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:08:27 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\questions\date\1918-12_join-Freikorps.txt
+Tue Jun 27 23:08:27 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:08:41 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\questions\date\1919-06_Versailles.txt
+Tue Jun 27 23:08:42 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:08:59 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\questions\date\1920-03_Kapp-Luettwitz.txt
+Tue Jun 27 23:08:59 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:09:05 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\events\message\trigger\Ruhr-Rote-Armee-1920_Erschossene-Rotarmisten-death.txt
+Tue Jun 27 23:09:05 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:09:27 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\events\story\trigger\epigraph_Remarque.txt
+Tue Jun 27 23:09:27 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:09:45 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\events\story\date\1918-10_Remarque.txt
+Tue Jun 27 23:09:45 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:09:47 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\events\story\trigger\Frieden_Remarque.txt
+Tue Jun 27 23:09:47 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:09:49 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\events\story\trigger\11-November-1918_Remarque.txt
+Tue Jun 27 23:09:49 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:09:51 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\questions\date\1918-10_Profession.txt
+Tue Jun 27 23:09:51 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:10:00 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\events\story\date\1918-11_Remarque.txt
+Tue Jun 27 23:10:01 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:10:03 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\events\story\trigger\Train_Remarque.txt
+Tue Jun 27 23:10:03 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:10:05 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\events\story\trigger\Train-continue_Remarque.txt
+Tue Jun 27 23:10:05 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:10:07 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\questions\date\1918-11_Kaiser.txt
+Tue Jun 27 23:10:07 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:10:17 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\events\story\date\1918-12_Remarque.txt
+Tue Jun 27 23:10:18 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:11:00 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\events\story\trigger\Heimat_Remarque.txt
+Tue Jun 27 23:11:00 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:11:02 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\questions\date\1918-12_join-Freikorps.txt
+Tue Jun 27 23:11:03 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:11:13 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\questions\date\1919-06_Versailles.txt
+Tue Jun 27 23:11:14 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:11:30 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\questions\date\1920-03_Kapp-Luettwitz.txt
+Tue Jun 27 23:11:30 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:11:51 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\questions\date\1921-05_Oberschlesien.txt
+Tue Jun 27 23:11:52 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:12:06 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\questions\period\1922-01_1923-12_m_Orchestra.txt
+Tue Jun 27 23:12:07 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:12:18 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\events\story\date\1922-06_Rathenau-Berliner-Tageblatt.txt
+Tue Jun 27 23:12:19 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:12:22 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\events\story\trigger\Ermordung-Rathenaus_Vossische-Zeitung.txt
+Tue Jun 27 23:12:22 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:12:24 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\events\story\trigger\Ermordung-Rathenaus-continue_Vossische-Zeitung.txt
+Tue Jun 27 23:12:24 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:12:27 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\questions\date\1922-06_Rathenau.txt
+Tue Jun 27 23:12:27 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:12:37 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\events\story\trigger\Rathenau_Ebert.txt
+Tue Jun 27 23:12:37 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:12:52 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\questions\period\1923-01_1928-12_m_join-STA.txt
+Tue Jun 27 23:12:52 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:13:15 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\questions\period\1923-01_1923-05_m_Ruhr.txt
+Tue Jun 27 23:13:16 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:13:29 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\questions\period\1924-01_1925-12_m_Reichsfahne.txt
+Tue Jun 27 23:13:29 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:13:39 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\questions\period\1924-03_1928-12_m_join-RB.txt
+Tue Jun 27 23:13:40 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:13:51 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\questions\period\1924-06_1928-12_m_join-RFB.txt
+Tue Jun 27 23:13:52 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:14:07 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\questions\period\1925-01_1928-12_m_RB-mission.txt
+Tue Jun 27 23:14:07 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:14:24 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\events\message\date\1925-02_Ebert-death.txt
+Tue Jun 27 23:14:25 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:14:30 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\questions\date\1925-04_Reichspraesidentenwahl.txt
+Tue Jun 27 23:14:31 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:14:42 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\questions\period\1925-05_1928-12_m_join-SA.txt
+Tue Jun 27 23:14:43 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:15:25 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\questions\period\1928-01_1932-12_m_Parteigruss.txt
+Tue Jun 27 23:15:26 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:15:41 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\events\story\date\1928-09_Morozowitz.txt
+Tue Jun 27 23:15:42 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:15:53 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\questions\period\1929-01_1933-02_m_anti-SA-provocation.txt
+Tue Jun 27 23:15:54 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:16:19 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\questions\period\1930-01_1931-12_m_Ringeltaube-RB.txt
+Tue Jun 27 23:16:20 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:16:27 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\events\message\trigger\Jungstahlhelmer-incident-fight_death.txt
+Tue Jun 27 23:16:27 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:16:50 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\events\story\trigger\epigraph_Remarque.txt
+Tue Jun 27 23:16:50 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:17:16 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\events\story\date\1918-10_Remarque.txt
+Tue Jun 27 23:17:16 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:17:21 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\events\story\trigger\Frieden_Remarque.txt
+Tue Jun 27 23:17:21 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:17:24 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\events\story\trigger\11-November-1918_Remarque.txt
+Tue Jun 27 23:17:24 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:17:26 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\questions\date\1918-10_Profession.txt
+Tue Jun 27 23:17:26 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:17:34 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\events\story\date\1918-11_Remarque.txt
+Tue Jun 27 23:17:34 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:17:39 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\events\story\trigger\Train_Remarque.txt
+Tue Jun 27 23:17:39 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:17:43 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\events\story\trigger\Train-continue_Remarque.txt
+Tue Jun 27 23:17:43 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:17:45 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\questions\date\1918-11_Kaiser.txt
+Tue Jun 27 23:17:45 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:17:51 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\events\story\date\1918-12_Remarque.txt
+Tue Jun 27 23:17:51 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:17:54 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\events\story\trigger\Heimat_Remarque.txt
+Tue Jun 27 23:17:54 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:17:57 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\questions\date\1918-12_join-Freikorps.txt
+Tue Jun 27 23:17:57 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:18:14 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\questions\date\1919-06_Versailles.txt
+Tue Jun 27 23:18:14 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:18:36 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\questions\date\1920-03_Kapp-Luettwitz.txt
+Tue Jun 27 23:18:37 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:18:58 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\questions\date\1921-05_Oberschlesien.txt
+Tue Jun 27 23:18:59 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:19:17 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\questions\period\1922-01_1923-12_m_Orchestra.txt
+Tue Jun 27 23:19:18 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:19:31 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\events\story\date\1922-06_Rathenau-Berliner-Tageblatt.txt
+Tue Jun 27 23:19:32 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:19:34 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\events\story\trigger\Ermordung-Rathenaus_Vossische-Zeitung.txt
+Tue Jun 27 23:19:34 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:19:36 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\events\story\trigger\Ermordung-Rathenaus-continue_Vossische-Zeitung.txt
+Tue Jun 27 23:19:37 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:19:38 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\questions\date\1922-06_Rathenau.txt
+Tue Jun 27 23:19:38 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:20:09 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\events\story\trigger\Rathenau_Ebert.txt
+Tue Jun 27 23:20:09 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:20:24 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\questions\period\1923-01_1923-05_m_Ruhr.txt
+Tue Jun 27 23:20:25 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:20:31 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\questions\period\1923-01_1928-12_m_join-STA.txt
+Tue Jun 27 23:20:32 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:20:48 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\questions\period\1924-01_1925-12_m_Reichsfahne.txt
+Tue Jun 27 23:20:49 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:21:11 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\questions\period\1924-03_1928-12_m_join-RB.txt
+Tue Jun 27 23:21:11 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:21:25 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\questions\period\1924-06_1928-12_m_join-RFB.txt
+Tue Jun 27 23:21:25 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:21:36 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\questions\period\1925-01_1928-12_m_RB-mission.txt
+Tue Jun 27 23:21:37 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:21:48 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\events\message\date\1925-02_Ebert-death.txt
+Tue Jun 27 23:21:49 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:21:56 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\questions\date\1925-04_Reichspraesidentenwahl.txt
+Tue Jun 27 23:21:57 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:22:09 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\questions\period\1925-05_1928-12_m_join-SA.txt
+Tue Jun 27 23:22:10 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:22:51 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\questions\period\1928-01_1932-12_m_Parteigruss.txt
+Tue Jun 27 23:22:52 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:23:07 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\events\story\date\1928-09_Morozowitz.txt
+Tue Jun 27 23:23:08 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:23:17 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\questions\period\1929-01_1933-02_m_anti-SA-provocation.txt
+Tue Jun 27 23:23:18 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:23:45 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\questions\period\1930-01_1931-12_m_Ringeltaube-RB.txt
+Tue Jun 27 23:23:46 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:23:53 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\events\message\trigger\Jungstahlhelmer-incident-retreat_Jungsta-escape.txt
+Tue Jun 27 23:23:53 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:24:08 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\events\message\period\1930-12_1932-02_m_Reichsbanner-reformation.txt
+Tue Jun 27 23:24:08 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:24:37 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\events\message\trigger\Schufo-history0_Reichsbanner-reformation.txt
+Tue Jun 27 23:24:37 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:25:25 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\events\message\trigger\Schufo-history1_Reichsbanner-reformation.txt
+Tue Jun 27 23:25:25 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:25:57 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\events\message\trigger\Schufo-history2_Reichsbanner-reformation.txt
+Tue Jun 27 23:25:57 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:26:21 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\events\message\trigger\Schufo-history3_Reichsbanner-reformation.txt
+Tue Jun 27 23:26:21 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:26:55 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\questions\trigger\Schufo_join-Schufo-RB.txt
+Tue Jun 27 23:26:55 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:27:38 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\events\message\date\1933-02_Reichskanzler-Hitler.txt
+Tue Jun 27 23:27:38 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:27:48 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\questions\date\1933-03_RB-last-meeting.txt
+Tue Jun 27 23:27:49 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:28:33 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\events\message\trigger\RB-escaped-to-STA_join-STA.txt
+Tue Jun 27 23:28:33 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:39:47 EEST 2017 | 10/1918
+Tue Jun 27 23:40:24 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\events\story\trigger\epigraph_Remarque.txt
+Tue Jun 27 23:40:25 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:40:41 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\events\story\date\1918-10_Remarque.txt
+Tue Jun 27 23:40:41 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:40:43 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\events\story\trigger\Frieden_Remarque.txt
+Tue Jun 27 23:40:43 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:40:45 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\events\story\trigger\11-November-1918_Remarque.txt
+Tue Jun 27 23:40:45 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:40:47 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\questions\date\1918-10_Profession.txt
+Tue Jun 27 23:40:47 EEST 2017 | Left pane book (message) loaded
+Tue Jun 27 23:40:52 EEST 2017 | 10/1918
+Tue Jun 27 23:41:21 EEST 2017 | Left pane book (message) loaded

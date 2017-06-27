@@ -2,7 +2,7 @@ currentYear | 1918
 currentMonth | 10
 isDead | false
 inCustody | false
-currentMessage | null#null
-gameMoment | -2
+currentMessage | C:\Users\Admin\Documents\NetBeansProjects\questionnaire\data\questions\date\#1918-10_Profession.txt
+gameMoment | 4
 triggerName | 
 triggerGameMoment | 

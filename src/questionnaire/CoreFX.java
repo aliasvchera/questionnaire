@@ -183,11 +183,9 @@ public class CoreFX extends Application {
     }
     
     /**
-     * Exit game: save data & close application
-     */        
-    @Override
-    public void stop() {                 
-        System.out.println("Exit game - step2");
+     * Save game before exit (only if 'Exit' is clicked)
+     */
+    public static void saveGame() {        
         // Save current data
         currentMoment.saveVariables("current_moment", false);
         personality.saveVariables("personality", false);
@@ -196,6 +194,14 @@ public class CoreFX extends Application {
         curriculumVitae.saveVariables("curriculum_vitae", false);
         
         MessageDB.saveMessageUsageStatistics(DATA_DIR);
+    }
+    
+    /**
+     * Exit game: save data & close application
+     */        
+    @Override
+    public void stop() {                 
+        System.out.println("Exit game - step2");
     }
     
     
