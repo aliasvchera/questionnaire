@@ -1157,3 +1157,7 @@ Tue Jun 27 23:40:47 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBea
 Tue Jun 27 23:40:47 EEST 2017 | Left pane book (message) loaded
 Tue Jun 27 23:40:52 EEST 2017 | 10/1918
 Tue Jun 27 23:41:21 EEST 2017 | Left pane book (message) loaded
+Wed Jun 28 01:04:22 EEST 2017 | 10/1918
+Wed Jun 28 01:12:36 EEST 2017 | 10/1918
+Wed Jun 28 01:13:06 EEST 2017 | Current message: C:\Users\Admin\Documents\GitHub\questionnaire\data\events\story\date\1918-11_Remarque.txt
+Wed Jun 28 01:13:08 EEST 2017 | Left pane book (message) loaded
