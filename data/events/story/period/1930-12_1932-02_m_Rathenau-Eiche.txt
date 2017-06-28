@@ -1,0 +1,18 @@
+conditionTrigger | 
+conditiondDate | 
+conditionPeriod | 1930-12#1932-02#m
+conditionDeath | 
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | Фабиан, шагая по Кенигс-аллее, поравнялся с «Дубом Ратенау». Два венка висели на нем. На этом углу убили очень умного человека. «Ратенау должен был умереть, — сказал ему однажды писатель национал-социалист. — Причина — его наглость, он был евреем и захотел стать немецким министром иностранных дел. Вы представьте себе, что во Франции колониальный негр претендовал бы на Кэ-д'Орсэ, вряд ли это устроило бы французов».
+quotationAuthor | Эрих Кестнер "Фабиан. История одного моралиста"
+pictureName | 
+effectMoney | 
+effectJob | 
+effectStatus | 
+effectTrigger | 
