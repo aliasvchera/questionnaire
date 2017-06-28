@@ -2,7 +2,7 @@ currentYear | 1918
 currentMonth | 11
 isDead | false
 inCustody | false
-currentMessage | null#null
+currentMessage | \events\story\date\#1918-11_Remarque.txt
 gameMoment | 2
 triggerName | 
 triggerGameMoment | 

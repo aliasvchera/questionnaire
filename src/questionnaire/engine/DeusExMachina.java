@@ -251,7 +251,8 @@ public class DeusExMachina {
                 !currentMoment.currentMessage[0].equals("null") && 
                 !currentMoment.currentMessage[1].equals("null")) {                
         // In case of previously interrupted (and saved) game continuing
-            String messagePath = currentMoment.currentMessage[0] + "\\" + 
+            String messagePath = CoreFX.DATA_DIR + 
+                    currentMoment.currentMessage[0] + "\\" + 
                     currentMoment.currentMessage[1];            
             if(keyText.startsWith("event")) {
                 currentMessage = new Event(messagePath, keyText);
@@ -293,7 +294,7 @@ public class DeusExMachina {
     static Message findMessage(String keyText) {
     // find message obeying requirements (parameter values)    
         // System.out.println("Find message: step 1"); // !!!!!!!!!!!!!!!!!!!!!!!!!! tmp !!!!!!!!!!!!!!!!
-        String messageFolder = CoreFX.DATA_DIR + MessageDB.getFolderPath(keyText);
+        String messageFolder = MessageDB.getFolderPath(keyText);
         String[] messageList = MessageDB.getMessageFile(keyText); 
         Message currentMessage = null;
         // System.out.println("Find message: step 2");  // !!!!!!!!!!!!!!!!!!!!!!!!!! tmp !!!!!!!!!!!!!!!!
@@ -309,9 +310,11 @@ public class DeusExMachina {
                 // System.out.println("Find message: step 4");  // !!!!!!!!!!!!!!!!!! tmp !!!!!!!!!!!!!!!!
                 if(keyText.startsWith("event")) {
                     // System.out.println("Find message: step 4.1 " + msg);  // !!!!!!!! tmp !!!!!!!!!!!!!!!!               
-                    currentMessage = new Event(messageFolder + msg, keyText);
+                    currentMessage = new Event(CoreFX.DATA_DIR + 
+                            messageFolder + msg, keyText);
                 } else if(keyText.startsWith("question")) {                    
-                    currentMessage = new Question(messageFolder + msg, keyText);
+                    currentMessage = new Question(CoreFX.DATA_DIR + 
+                            messageFolder + msg, keyText);
                 } else {
                     // ???????????????????????????????????????????????????????????????
                 }

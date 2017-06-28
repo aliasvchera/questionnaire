@@ -89,14 +89,14 @@ public class IntroPseudoVideo {
     private static GaussianBlur blur;
     private static ColorAdjust bw;
     
-    private static String filePath0;
-    private static String filePath1;
+    private static final String[] filePath = new String[9];
+    /*private static String filePath1;
     private static String filePath2;
     private static String filePath3;
     private static String filePath4;
     private static String filePath5;
     private static String filePath6;
-    private static String filePath7;
+    private static String filePath7; */
     private static String currentImage;
     
     private static final Dimension SCREEN_SIZE = 
@@ -113,16 +113,17 @@ public class IntroPseudoVideo {
     public static void startIntro(Scene mainScene, StackPane rootPane) {
        
         // Testing animated intro
-        filePath0 = "file:data/screens/loadscreen_adel-studio.png";
-        filePath1 = "file:data/screens/loadscreen_RFB.png";
-        filePath2 = "file:data/screens/loadscreen_RB.png";
-        filePath3 = "file:data/screens/loadscreen_STA.png";
-        filePath4 = "file:data/screens/loadscreen_SA.png";
-        filePath5 = "file:data/screens/loadscreen_im.png";
-        filePath6 = "file:data/screens/loadscreen_logo.png";
-        filePath7 = "file:data/screens/loadscreen01.jpg";
+        filePath[0] = "file:data/screens/loadscreen_adel-studio.png";
+        filePath[1] = "file:data/screens/loadscreen_RFB.png";
+        filePath[2] = "file:data/screens/loadscreen_RB.png";
+        filePath[3] = "file:data/screens/loadscreen_STA.png";
+        filePath[4] = "file:data/screens/loadscreen_SA.png";
+        filePath[5] = "file:data/screens/loadscreen_im.png";
+        filePath[6] = "file:data/screens/loadscreen_logo_frame.png";
+        filePath[7] = "file:data/screens/loadscreen_logo.png";
+        filePath[8] = "file:data/screens/loadscreen01.jpg";
                 
-        fullImage = new Image(filePath0);
+        fullImage = new Image(filePath[0]);
         currentImage = "image0";
         shiftRange = 10;        
         fullWidth = (int) fullImage.getWidth();
@@ -223,45 +224,45 @@ public class IntroPseudoVideo {
         // Change studio logo on RFB logo
         if(currentImage.equals("image0") && 
                 player.getCurrentTime().toSeconds() >= 1.8) { // find the best value        
-            fullImage = new Image(filePath1);
+            fullImage = new Image(filePath[1]);
             currentImage = "image1";
         } 
         
         // Change RFB logo on RB logo
         if(currentImage.equals("image1") && 
                 player.getCurrentTime().toSeconds() >= (1.8 + 2.5)) { // find the best value        
-            fullImage = new Image(filePath2);
+            fullImage = new Image(filePath[2]);
             currentImage = "image2";
         } 
         
         // Change RB logo on STA logo
         if(currentImage.equals("image2") && 
                 player.getCurrentTime().toSeconds() >= (1.8 + 2.5 * 2)) { // find the best value        
-            fullImage = new Image(filePath3);
+            fullImage = new Image(filePath[3]);
             currentImage = "image3";
         } 
         
         // Change STA logo on SA logo
         if(currentImage.equals("image3") && 
                 player.getCurrentTime().toSeconds() >= (1.8 + 2.5 * 3)) { // find the best value        
-            fullImage = new Image(filePath4);
+            fullImage = new Image(filePath[4]);
             currentImage = "image4";
         } 
         
         // Change SA logo on "im" logo
         if(currentImage.equals("image4") && 
                 player.getCurrentTime().toSeconds() >= (1.8 + 2.5 * 4)) { // find the best value        
-            fullImage = new Image(filePath5);
+            fullImage = new Image(filePath[5]);
             currentImage = "image5";
         } 
         
         // Change "im" logo on game logo
         if(currentImage.equals("image5") && 
                 player.getCurrentTime().toSeconds() >= (1.8 + 2.5 * 4 + 1.3)) { // find the best value        
-            fullImage = new Image(filePath6);
+            fullImage = new Image(filePath[6]);
             // !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-            fullWidth = (int) fullImage.getWidth();
-            fullHeight = (int) fullImage.getHeight();
+            // fullWidth = (int) fullImage.getWidth();
+            // fullHeight = (int) fullImage.getHeight();
             currentImage = "image6";
         } 
         
@@ -316,6 +317,11 @@ public class IntroPseudoVideo {
         */
         
         // Set non-cropped background image
+        fullImage = new Image(filePath[7]);
+            // !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+        fullWidth = (int) fullImage.getWidth();
+        fullHeight = (int) fullImage.getHeight();
+        currentImage = "image7";
         introFrame.setBackground(processImage(fullImage, 0));
         
         /*
@@ -398,7 +404,7 @@ public class IntroPseudoVideo {
         KeyValue rootOpacity2 = new KeyValue(introFrame.opacityProperty(), 1);
         
         KeyValue changeBackground1 = new KeyValue(introFrame.backgroundProperty(), 
-                processImage(new Image(filePath7), 0));
+                processImage(new Image(filePath[8]), 0));
         KeyFrame keyFrame0 = new KeyFrame(Duration.ZERO, rootOpacity0);
         KeyFrame keyFrame1 = new KeyFrame(Duration.seconds(0.5), rootOpacity1, 
                 changeBackground1);

@@ -1,5 +1,5 @@
 NAME | activism | activismRequirement
-socialist | 0 | 0
-republican | 0 | 0
-conservative | 0 | 0
-nationalist | 0 | 0
+socialist | 0 | 2
+republican | 1 | 2
+conservative | 0 | 2
+nationalist | 0 | 1

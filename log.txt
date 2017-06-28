@@ -1157,7 +1157,34 @@ Tue Jun 27 23:40:47 EEST 2017 | Current message: C:\Users\Admin\Documents\NetBea
 Tue Jun 27 23:40:47 EEST 2017 | Left pane book (message) loaded
 Tue Jun 27 23:40:52 EEST 2017 | 10/1918
 Tue Jun 27 23:41:21 EEST 2017 | Left pane book (message) loaded
-Wed Jun 28 01:04:22 EEST 2017 | 10/1918
-Wed Jun 28 01:12:36 EEST 2017 | 10/1918
-Wed Jun 28 01:13:06 EEST 2017 | Current message: C:\Users\Admin\Documents\GitHub\questionnaire\data\events\story\date\1918-11_Remarque.txt
-Wed Jun 28 01:13:08 EEST 2017 | Left pane book (message) loaded
+Wed Jun 28 23:05:44 EEST 2017 | 10/1918
+Wed Jun 28 23:08:32 EEST 2017 | 10/1918
+Wed Jun 28 23:09:03 EEST 2017 | Left pane book (message) loaded
+Wed Jun 28 23:09:19 EEST 2017 | Current message: \events\story\date\1918-11_Remarque.txt
+Wed Jun 28 23:09:19 EEST 2017 | Left pane book (message) loaded
+Wed Jun 28 23:09:50 EEST 2017 | 11/1918
+Wed Jun 28 23:10:20 EEST 2017 | Left pane book (message) loaded
+Wed Jun 28 23:10:39 EEST 2017 | 11/1918
+Wed Jun 28 23:11:08 EEST 2017 | Left pane book (message) loaded
+Wed Jun 28 23:16:14 EEST 2017 | 11/1918
+Wed Jun 28 23:16:43 EEST 2017 | Left pane book (message) loaded
+Wed Jun 28 23:19:41 EEST 2017 | 11/1918
+Wed Jun 28 23:20:10 EEST 2017 | Left pane book (message) loaded
+Wed Jun 28 23:20:15 EEST 2017 | 11/1918
+Wed Jun 28 23:20:45 EEST 2017 | Left pane book (message) loaded
+Wed Jun 28 23:20:50 EEST 2017 | 11/1918
+Wed Jun 28 23:21:20 EEST 2017 | Left pane book (message) loaded
+Wed Jun 28 23:21:39 EEST 2017 | 11/1918
+Wed Jun 28 23:22:09 EEST 2017 | Left pane book (message) loaded
+Thu Jun 29 00:00:24 EEST 2017 | 11/1918
+Thu Jun 29 00:00:54 EEST 2017 | Left pane book (message) loaded
+Thu Jun 29 00:01:32 EEST 2017 | 11/1918
+Thu Jun 29 00:02:03 EEST 2017 | Left pane book (message) loaded
+Thu Jun 29 00:17:03 EEST 2017 | 11/1918
+Thu Jun 29 00:17:33 EEST 2017 | Left pane book (message) loaded
+Thu Jun 29 00:18:04 EEST 2017 | 11/1918
+Thu Jun 29 00:18:34 EEST 2017 | Left pane book (message) loaded
+Thu Jun 29 00:19:08 EEST 2017 | 11/1918
+Thu Jun 29 00:19:37 EEST 2017 | Left pane book (message) loaded
+Thu Jun 29 00:29:38 EEST 2017 | 11/1918
+Thu Jun 29 00:30:08 EEST 2017 | Left pane book (message) loaded
