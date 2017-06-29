@@ -324,13 +324,16 @@ public class IntroPseudoVideo {
         currentImage = "image7";
         introFrame.setBackground(processImage(fullImage, 0));
         
+        // Set maximal blur for static white noize filter
+        blurRadius1 = (float) 8;
+        
         /*
         ImageView logoImage = new ImageView(filePath6);
         introFrame.getChildren().add(logoImage);
         */
         
         // Remove artifacts:
-        // a) full-height balck lines
+        // a) full-height black lines
         for(int i = 0; i < artifactLine.length; i++) {
             introFrame.getChildren().remove(artifactLine[i]);
         }

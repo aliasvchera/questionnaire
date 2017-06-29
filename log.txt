@@ -1186,7 +1186,11 @@ Thu Jun 29 00:18:04 EEST 2017 | 11/1918
 Thu Jun 29 00:18:34 EEST 2017 | Left pane book (message) loaded
 Thu Jun 29 00:19:08 EEST 2017 | 11/1918
 Thu Jun 29 00:19:37 EEST 2017 | Left pane book (message) loaded
-Thu Jun 29 00:29:38 EEST 2017 | 11/1918
-Thu Jun 29 00:30:08 EEST 2017 | Left pane book (message) loaded
-Thu Jun 29 00:40:27 EEST 2017 | 11/1918
-Thu Jun 29 00:40:56 EEST 2017 | Left pane book (message) loaded
+Thu Jun 29 22:45:31 EEST 2017 | 11/1918
+Thu Jun 29 22:46:00 EEST 2017 | Left pane book (message) loaded
+Thu Jun 29 22:52:20 EEST 2017 | 11/1918
+Thu Jun 29 22:52:52 EEST 2017 | Left pane book (message) loaded
+Thu Jun 29 22:53:17 EEST 2017 | 11/1918
+Thu Jun 29 22:53:46 EEST 2017 | Left pane book (message) loaded
+Thu Jun 29 22:53:54 EEST 2017 | 11/1918
+Thu Jun 29 22:54:24 EEST 2017 | Left pane book (message) loaded
