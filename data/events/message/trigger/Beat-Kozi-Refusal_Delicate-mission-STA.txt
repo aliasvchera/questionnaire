@@ -1,0 +1,18 @@
+conditionTrigger | Beat-Kozi-Refusal
+conditiondDate | 
+conditionPeriod | 
+conditionDeath | 
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | Товарищ Вольфе выглядел очень расстроенным: «Жаль, очень жаль. Я на Вас рассчитывал. Что ж, забудьте всё, что я сейчас сказал».
+quotationAuthor | 
+pictureName | WR_stahlhelm_31.jpeg
+effectMoney | 
+effectJob | 
+effectStatus | 
+effectTrigger | 

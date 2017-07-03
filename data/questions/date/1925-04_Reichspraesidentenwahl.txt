@@ -10,7 +10,7 @@ usedMax | 1
 captionText | 26 апреля 1925 года
 mainText | За кого Вы отдали свой голос во втором туре выборов рейхспрезидента?
 pictureName | 2241-Q-10.jpg
-answerText | За Вильгельма Маркса.#За Пауля фон Гинденбурга.#За Эрнста Тельмана.#Генерал Людендорф не прошёл во второй тур, а больше здесь голосовать не за кого.#Не вижу смысла во всех этих выборах, не голосовал.
+answerText | Вильгельм Маркс#Пауль фон Гинденбург#Эрнст Тельман#Генерал Людендорф не прошёл во второй тур, а больше здесь голосовать не за кого.#Не вижу смысла во всех этих выборах, не голосовал.
 answerConditionPolitical | 
 answerConditionKampfbund | 
 effectPolitical | republican+2#conservative+2#socialist+2#nationalist+2#
@@ -22,5 +22,5 @@ effectKampfbundJoinOrLeft |
 effectMoney | 
 effectJob | 
 effectOccasion | 
-effectStatus | 
-effectTrigger | Hindenburg#Hindenburg#Hindenburg#Hindenburg#Hindenburg
+effectStatus | Marx-Waehler-1925+##Thaelmann-Waehler-1925+##
+effectTrigger | Reichspraesidentenwahl-1925-2#Reichspraesidentenwahl-1925-2#Reichspraesidentenwahl-1925-2#Reichspraesidentenwahl-1925-2#Reichspraesidentenwahl-1925-2

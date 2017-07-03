@@ -1,0 +1,18 @@
+conditionTrigger | STA-Provocation-Assent
+conditiondDate | 
+conditionPeriod | 
+conditionDeath | death+
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | Сначала всё было просто замечательно: «штальхельмеры» гордо маршировали под старыми знамёнами через рабочие кварталы, «красные» ревели от злости. Но не стоило перегибать палку: когда кто-то в ваших рядах начал выкрикивать «рабочие свиньи» и прочие оскорбления, из толпы полетели камни. Один из них попал Вам прямо в висок…@@@По ходатайству «Стального шлема» и прочих национальных воинских союзов Вас похоронили со всеми почестями рядом с могилами павших в Великой войне.
+quotationAuthor | 
+pictureName | denkm00266.jpg
+effectMoney | 
+effectJob | 
+effectStatus | 
+effectTrigger | The-End

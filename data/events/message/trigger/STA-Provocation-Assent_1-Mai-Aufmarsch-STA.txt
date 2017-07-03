@@ -1,0 +1,18 @@
+conditionTrigger | STA-Provocation-Assent
+conditiondDate | 
+conditionPeriod | 
+conditionDeath | death-
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | Марш прошёл великолепно! «Красные» от злости чуть не взорвались, кричали, улюлюкали, но атаковать не решились. После такого позора теперь можно ожидать, что авторитет «коци» и «соци» в рабочих кварталах города существенно пошатнётся.
+quotationAuthor | 
+pictureName | 573230.jpg
+effectMoney | 
+effectJob | 
+effectStatus | 
+effectTrigger | 

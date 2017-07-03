@@ -1,8 +1,8 @@
-currentYear | 1918
-currentMonth | 11
+currentYear | 1925
+currentMonth | 2
 isDead | false
 inCustody | false
-currentMessage | \events\story\date\#1918-11_Remarque.txt
-gameMoment | 2
+currentMessage | \events\message\date\#1925-02_Ebert-death.txt
+gameMoment | 3
 triggerName | 
 triggerGameMoment | 

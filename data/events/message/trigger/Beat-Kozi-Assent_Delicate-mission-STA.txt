@@ -1,0 +1,18 @@
+conditionTrigger | Beat-Kozi-Assent
+conditiondDate | 
+conditionPeriod | 
+conditionDeath | 
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | Цугфюрер просиял: «Замечательно! Я знал, что на Вас можно рассчитывать, товарищ! С полицией проблем не будет: там, конечно, всё контролируют «соци», но им эти большевики тоже как кость поперёк горла. Так что возьмите пару наших крепких парней – можете кого-то из молодёжи «Юнгшта», это им будет хорошая наука – и проучите его как следует!»
+quotationAuthor | 
+pictureName | stahlhelmbnd 001_final.jpg
+effectMoney | 
+effectJob | 
+effectStatus | 
+effectTrigger | Beat-Kozi

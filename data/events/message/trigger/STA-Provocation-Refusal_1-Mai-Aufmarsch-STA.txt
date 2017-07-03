@@ -1,0 +1,18 @@
+conditionTrigger | STA-Provocation-Refusal
+conditiondDate | 
+conditionPeriod | 
+conditionDeath | 
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | Никто, конечно, никого не стал заставлять участвовать в «первомайском марше», но после этого отказа товарищи стали косо на Вас смотреть.
+quotationAuthor | 
+pictureName | 33931706_6_l.jpg
+effectMoney | 
+effectJob | 
+effectStatus | 
+effectTrigger | 

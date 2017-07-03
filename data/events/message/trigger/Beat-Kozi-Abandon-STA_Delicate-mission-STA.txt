@@ -1,0 +1,18 @@
+conditionTrigger | Beat-Kozi-Abandon-STA
+conditiondDate | 
+conditionPeriod | 
+conditionDeath | 
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | Поскольку сказано это было достаточно громко, то все находившиеся в зале обернулись к Вам. Вдруг сразу стало тихо. Провожаемый ледяными взглядами, Вы молча прошли к двери и навсегда покинули «Стальной шлем».
+quotationAuthor | 
+pictureName | 33931706_6_l.jpg
+effectMoney | 
+effectJob | 
+effectStatus | 
+effectTrigger | 

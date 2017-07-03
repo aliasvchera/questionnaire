@@ -1,0 +1,18 @@
+conditionTrigger | RB-answer-Fight
+conditiondDate | 
+conditionPeriod | 
+conditionDeath | death+
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | На лице наци заиграли желваки: «Зря, очень зря. Тебе предложили нормально поговорить, но ты не оценил нашего благородства… Эй, ребята!»@@@Ясное дело, против шестерых никаких шансов не было, поэтому уже через пять минут Вы лежали, не шевелясь, в луже крови на мостовой.@@@Через несколько дней Вы умерли от ран.@@@
+quotationAuthor | 
+pictureName | 545705579_Funeral service for murderer members of the Reichsbanner in Hamburg Ohlsdorf.jpg
+effectMoney | 
+effectJob | 
+effectStatus | 
+effectTrigger | The-End

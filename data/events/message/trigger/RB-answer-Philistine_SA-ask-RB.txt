@@ -1,0 +1,18 @@
+conditionTrigger | RB-answer-Philistine
+conditiondDate | 
+conditionPeriod | 
+conditionDeath | 
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | Лицо наци скривилось в презрительной усмешке: «Всё понятно: осторожный обыватель «как бы чего не вышло» во всей красе. Я подозревал, что всё ваше дутое войско из таких состоит. Ладно, иди на все четыре стороны – нам ты неопасен и уж точно таких и подавно не нужно в наших рядах».@@@Штурмовики пошли дальше по переулку, оставив Вас одного.@@@«Повезло», – подумали Вы.
+quotationAuthor | 
+pictureName | SA-in-Rothenburg-vor-1933_resized.jpg
+effectMoney | 
+effectJob | 
+effectStatus | 
+effectTrigger | 

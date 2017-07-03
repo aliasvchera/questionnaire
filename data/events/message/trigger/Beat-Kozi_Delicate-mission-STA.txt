@@ -1,0 +1,18 @@
+conditionTrigger | Beat-Kozi
+conditiondDate | 
+conditionPeriod | 
+conditionDeath | 
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | Безлунной ночью Вы с товарищем и двумя «юнгштальхельмерами» ожидали в тёмном переулке «красного» смутьяна. Послышались шаги. Вы тихо приказали своим сообщникам притаиться, а сами пошли навстречу прохожему, чтобы убедиться, что это именно тот, кто Вам нужен. Нет, и на этот раз не он. Опять тягостные минуты ожидания. Ещё один. Вы идёте на встречу: «Огоньку не найдётся?» Чиркнула спичка. Вы стали спешно вглядываться в черты лица прохожего. Это он! «Ну что ж!» – произнесли очень громко, это сигнал к действию. Ваши помощники выскочили из темноты…
+quotationAuthor | 
+pictureName | gc3a4nge-1900.jpg
+effectMoney | 
+effectJob | 
+effectStatus | 
+effectTrigger | Beat-Kozi-Final

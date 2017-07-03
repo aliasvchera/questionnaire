@@ -1194,3 +1194,139 @@ Thu Jun 29 22:53:17 EEST 2017 | 11/1918
 Thu Jun 29 22:53:46 EEST 2017 | Left pane book (message) loaded
 Thu Jun 29 22:53:54 EEST 2017 | 11/1918
 Thu Jun 29 22:54:24 EEST 2017 | Left pane book (message) loaded
+Sun Jul 02 02:09:23 EEST 2017 | 11/1918
+Sun Jul 02 02:09:53 EEST 2017 | Left pane book (message) loaded
+Sun Jul 02 02:09:58 EEST 2017 | Current message: \events\story\trigger\Train_Remarque.txt
+Sun Jul 02 02:09:58 EEST 2017 | Left pane book (message) loaded
+Sun Jul 02 02:10:00 EEST 2017 | Current message: \events\story\trigger\Train-continue_Remarque.txt
+Sun Jul 02 02:10:00 EEST 2017 | Left pane book (message) loaded
+Sun Jul 02 02:10:03 EEST 2017 | Current message: \questions\date\1918-11_Kaiser.txt
+Sun Jul 02 02:10:03 EEST 2017 | Left pane book (message) loaded
+Sun Jul 02 02:10:09 EEST 2017 | Current message: \events\story\date\1918-12_Remarque.txt
+Sun Jul 02 02:10:10 EEST 2017 | Left pane book (message) loaded
+Sun Jul 02 02:10:12 EEST 2017 | Current message: \events\story\trigger\Heimat_Remarque.txt
+Sun Jul 02 02:10:12 EEST 2017 | Left pane book (message) loaded
+Sun Jul 02 02:10:14 EEST 2017 | Current message: \questions\date\1918-12_join-Freikorps.txt
+Sun Jul 02 02:10:14 EEST 2017 | Left pane book (message) loaded
+Sun Jul 02 02:10:25 EEST 2017 | Current message: \questions\date\1919-06_Versailles.txt
+Sun Jul 02 02:10:26 EEST 2017 | Left pane book (message) loaded
+Sun Jul 02 02:10:40 EEST 2017 | Current message: \questions\date\1920-03_Kapp-Luettwitz.txt
+Sun Jul 02 02:10:41 EEST 2017 | Left pane book (message) loaded
+Sun Jul 02 02:11:05 EEST 2017 | Current message: \questions\date\1921-05_Oberschlesien.txt
+Sun Jul 02 02:11:06 EEST 2017 | Left pane book (message) loaded
+Sun Jul 02 02:11:20 EEST 2017 | Current message: \questions\period\1922-01_1923-12_m_Orchestra.txt
+Sun Jul 02 02:11:21 EEST 2017 | Left pane book (message) loaded
+Sun Jul 02 02:11:36 EEST 2017 | Current message: \events\story\date\1922-06_Rathenau-Berliner-Tageblatt.txt
+Sun Jul 02 02:11:36 EEST 2017 | Left pane book (message) loaded
+Sun Jul 02 02:11:41 EEST 2017 | Current message: \events\story\trigger\Ermordung-Rathenaus_Vossische-Zeitung.txt
+Sun Jul 02 02:11:42 EEST 2017 | Left pane book (message) loaded
+Sun Jul 02 02:11:44 EEST 2017 | Current message: \events\story\trigger\Ermordung-Rathenaus-continue_Vossische-Zeitung.txt
+Sun Jul 02 02:11:44 EEST 2017 | Left pane book (message) loaded
+Sun Jul 02 02:11:48 EEST 2017 | Current message: \questions\date\1922-06_Rathenau.txt
+Sun Jul 02 02:11:48 EEST 2017 | Left pane book (message) loaded
+Sun Jul 02 02:11:54 EEST 2017 | Current message: \events\story\trigger\Rathenau_Ebert.txt
+Sun Jul 02 02:11:55 EEST 2017 | Left pane book (message) loaded
+Sun Jul 02 02:12:08 EEST 2017 | Current message: \questions\period\1923-01_1923-05_m_Ruhr.txt
+Sun Jul 02 02:12:08 EEST 2017 | Left pane book (message) loaded
+Sun Jul 02 02:12:28 EEST 2017 | Current message: \questions\period\1923-01_1928-12_m_join-STA.txt
+Sun Jul 02 02:12:28 EEST 2017 | Left pane book (message) loaded
+Sun Jul 02 02:12:49 EEST 2017 | Current message: \questions\period\1924-03_1928-12_m_join-RB.txt
+Sun Jul 02 02:12:50 EEST 2017 | Left pane book (message) loaded
+Sun Jul 02 02:13:08 EEST 2017 | Current message: \questions\period\1924-01_1925-12_m_Reichsfahne.txt
+Sun Jul 02 02:13:08 EEST 2017 | Left pane book (message) loaded
+Sun Jul 02 02:13:18 EEST 2017 | Current message: \events\message\date\1925-02_Ebert-death.txt
+Sun Jul 02 02:13:19 EEST 2017 | Left pane book (message) loaded
+Sun Jul 02 02:13:25 EEST 2017 | 2/1925
+Sun Jul 02 02:13:54 EEST 2017 | Left pane book (message) loaded
+Sun Jul 02 02:14:03 EEST 2017 | Current message: \questions\date\1925-03_Reichspraesidentenwahl.txt
+Sun Jul 02 02:14:04 EEST 2017 | Left pane book (message) loaded
+Sun Jul 02 02:14:32 EEST 2017 | Current message: \questions\trigger\Braun-Hellpach-Marx_Reichspraesidentenwahl.txt
+Sun Jul 02 02:14:32 EEST 2017 | Left pane book (message) loaded
+Sun Jul 02 02:14:42 EEST 2017 | Current message: \events\message\date\1925-04_Reichspraesidentenwahl.txt
+Sun Jul 02 02:14:43 EEST 2017 | Left pane book (message) loaded
+Sun Jul 02 02:34:19 EEST 2017 | 2/1925
+Sun Jul 02 02:34:49 EEST 2017 | Left pane book (message) loaded
+Sun Jul 02 02:35:00 EEST 2017 | Current message: \questions\date\1925-03_Reichspraesidentenwahl.txt
+Sun Jul 02 02:35:00 EEST 2017 | Left pane book (message) loaded
+Sun Jul 02 02:35:07 EEST 2017 | Current message: \events\message\date\1925-04_Reichspraesidentenwahl.txt
+Sun Jul 02 02:35:08 EEST 2017 | Left pane book (message) loaded
+Sun Jul 02 02:35:16 EEST 2017 | Current message: \events\message\trigger\Kandidat-Hindenburg_Reichspraesidentenwahl.txt
+Sun Jul 02 02:35:16 EEST 2017 | Left pane book (message) loaded
+Sun Jul 02 02:35:26 EEST 2017 | Current message: \questions\period\1924-06_1928-12_m_join-RFB.txt
+Sun Jul 02 02:35:26 EEST 2017 | Left pane book (message) loaded
+Sun Jul 02 02:35:45 EEST 2017 | Current message: \events\message\date\1925-05_Hindenburg.txt
+Sun Jul 02 02:35:46 EEST 2017 | Left pane book (message) loaded
+Sun Jul 02 02:36:48 EEST 2017 | 2/1925
+Sun Jul 02 02:37:17 EEST 2017 | Left pane book (message) loaded
+Sun Jul 02 02:37:24 EEST 2017 | Current message: \questions\date\1925-03_Reichspraesidentenwahl.txt
+Sun Jul 02 02:37:24 EEST 2017 | Left pane book (message) loaded
+Sun Jul 02 02:37:36 EEST 2017 | Current message: \events\message\date\1925-04_Reichspraesidentenwahl.txt
+Sun Jul 02 02:37:36 EEST 2017 | Left pane book (message) loaded
+Sun Jul 02 02:37:38 EEST 2017 | Current message: \events\message\trigger\Kandidat-Hindenburg_Reichspraesidentenwahl.txt
+Sun Jul 02 02:37:38 EEST 2017 | Left pane book (message) loaded
+Sun Jul 02 02:37:42 EEST 2017 | Current message: \events\message\date\1925-05_Hindenburg.txt
+Sun Jul 02 02:37:42 EEST 2017 | Left pane book (message) loaded
+Sun Jul 02 02:46:31 EEST 2017 | 2/1925
+Sun Jul 02 02:47:03 EEST 2017 | Left pane book (message) loaded
+Sun Jul 02 02:47:10 EEST 2017 | Current message: \questions\date\1925-03_Reichspraesidentenwahl.txt
+Sun Jul 02 02:47:11 EEST 2017 | Left pane book (message) loaded
+Sun Jul 02 02:47:18 EEST 2017 | Current message: \events\message\date\1925-04_Reichspraesidentenwahl.txt
+Sun Jul 02 02:47:19 EEST 2017 | Left pane book (message) loaded
+Sun Jul 02 02:47:21 EEST 2017 | Current message: \events\message\trigger\Kandidat-Hindenburg_Reichspraesidentenwahl.txt
+Sun Jul 02 02:47:21 EEST 2017 | Left pane book (message) loaded
+Sun Jul 02 02:47:26 EEST 2017 | Current message: \events\message\date\1925-05_Hindenburg.txt
+Sun Jul 02 02:47:27 EEST 2017 | Left pane book (message) loaded
+Sun Jul 02 02:52:14 EEST 2017 | 2/1925
+Sun Jul 02 02:52:43 EEST 2017 | Left pane book (message) loaded
+Sun Jul 02 02:52:49 EEST 2017 | Current message: \questions\date\1925-03_Reichspraesidentenwahl.txt
+Sun Jul 02 02:52:50 EEST 2017 | Left pane book (message) loaded
+Sun Jul 02 02:52:56 EEST 2017 | Current message: \events\message\date\1925-04_Kandidat-Hindenburg.txt
+Sun Jul 02 02:52:56 EEST 2017 | Left pane book (message) loaded
+Sun Jul 02 02:52:59 EEST 2017 | Current message: \events\message\trigger\Kandidat-Hindenburg_Reichspraesidentenwahl.txt
+Sun Jul 02 02:52:59 EEST 2017 | Left pane book (message) loaded
+Sun Jul 02 02:53:04 EEST 2017 | Current message: \questions\date\1925-04_Reichspraesidentenwahl.txt
+Sun Jul 02 02:53:04 EEST 2017 | Left pane book (message) loaded
+Sun Jul 02 02:53:30 EEST 2017 | 2/1925
+Sun Jul 02 02:54:00 EEST 2017 | Left pane book (message) loaded
+Sun Jul 02 02:54:08 EEST 2017 | Current message: \questions\date\1925-03_Reichspraesidentenwahl.txt
+Sun Jul 02 02:54:09 EEST 2017 | Left pane book (message) loaded
+Sun Jul 02 02:54:14 EEST 2017 | Current message: \events\message\date\1925-04_Kandidat-Hindenburg.txt
+Sun Jul 02 02:54:15 EEST 2017 | Left pane book (message) loaded
+Sun Jul 02 02:54:17 EEST 2017 | Current message: \events\message\trigger\Kandidat-Hindenburg_Reichspraesidentenwahl.txt
+Sun Jul 02 02:54:17 EEST 2017 | Left pane book (message) loaded
+Sun Jul 02 02:54:19 EEST 2017 | Current message: \questions\date\1925-04_Reichspraesidentenwahl.txt
+Sun Jul 02 02:54:19 EEST 2017 | Left pane book (message) loaded
+Sun Jul 02 02:57:40 EEST 2017 | 2/1925
+Sun Jul 02 02:58:11 EEST 2017 | Left pane book (message) loaded
+Sun Jul 02 02:58:45 EEST 2017 | Current message: \questions\date\1925-03_Reichspraesidentenwahl.txt
+Sun Jul 02 02:58:46 EEST 2017 | Left pane book (message) loaded
+Sun Jul 02 02:58:53 EEST 2017 | Current message: \events\message\date\1925-04_Kandidat-Hindenburg.txt
+Sun Jul 02 02:58:54 EEST 2017 | Left pane book (message) loaded
+Sun Jul 02 02:58:56 EEST 2017 | Current message: \events\message\trigger\Kandidat-Hindenburg_Reichspraesidentenwahl.txt
+Sun Jul 02 02:58:56 EEST 2017 | Left pane book (message) loaded
+Sun Jul 02 02:58:58 EEST 2017 | Current message: \questions\date\1925-04_Reichspraesidentenwahl.txt
+Sun Jul 02 02:58:58 EEST 2017 | Left pane book (message) loaded
+Sun Jul 02 02:59:04 EEST 2017 | Current message: \events\message\date\1925-05_Hindenburg-republicans.txt
+Sun Jul 02 02:59:04 EEST 2017 | Left pane book (message) loaded
+Sun Jul 02 02:59:51 EEST 2017 | Current message: \questions\period\1924-06_1928-12_m_join-RFB.txt
+Sun Jul 02 02:59:51 EEST 2017 | Left pane book (message) loaded
+Tue Jul 04 00:40:41 EEST 2017 | 2/1925
+Tue Jul 04 00:41:11 EEST 2017 | Left pane book (message) loaded
+Tue Jul 04 00:41:16 EEST 2017 | Current message: \questions\date\1925-03_Reichspraesidentenwahl.txt
+Tue Jul 04 00:41:17 EEST 2017 | Left pane book (message) loaded
+Tue Jul 04 00:41:23 EEST 2017 | Current message: \questions\trigger\Braun-Hellpach-Marx_Reichspraesidentenwahl.txt
+Tue Jul 04 00:41:23 EEST 2017 | Left pane book (message) loaded
+Tue Jul 04 00:41:29 EEST 2017 | Current message: \events\message\trigger\Reichspraesidentenwahl-1925-1_Reichspraesidentenwahl.txt
+Tue Jul 04 00:41:29 EEST 2017 | Left pane book (message) loaded
+Tue Jul 04 00:42:01 EEST 2017 | Current message: \events\message\date\1925-04_Kandidat-Hindenburg.txt
+Tue Jul 04 00:42:01 EEST 2017 | Left pane book (message) loaded
+Tue Jul 04 00:42:13 EEST 2017 | Current message: \events\message\trigger\Kandidat-Hindenburg_Reichspraesidentenwahl.txt
+Tue Jul 04 00:42:13 EEST 2017 | Left pane book (message) loaded
+Tue Jul 04 00:42:41 EEST 2017 | Current message: \questions\date\1925-04_Reichspraesidentenwahl.txt
+Tue Jul 04 00:42:41 EEST 2017 | Left pane book (message) loaded
+Tue Jul 04 00:42:51 EEST 2017 | Current message: \events\message\trigger\Reichspraesidentenwahl-1925-2_Reichspraesidentenwahl.txt
+Tue Jul 04 00:42:51 EEST 2017 | Left pane book (message) loaded
+Tue Jul 04 00:43:05 EEST 2017 | Current message: \events\message\date\1925-05_Hindenburg-communists.txt
+Tue Jul 04 00:43:06 EEST 2017 | Left pane book (message) loaded
+Tue Jul 04 00:43:33 EEST 2017 | Current message: \questions\period\1924-06_1928-12_m_join-RFB.txt
+Tue Jul 04 00:43:33 EEST 2017 | Left pane book (message) loaded

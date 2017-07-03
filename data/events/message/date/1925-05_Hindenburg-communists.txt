@@ -1,0 +1,18 @@
+conditionTrigger | 
+conditiondDate | 1925-05
+conditionPeriod | 
+conditionDeath | 
+conditionOccasion | 
+conditionStatus | Thaelmann-Waehler-1925+
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | 11 мая 1925 года избранный президент приехал из Ганновера в Берлин, где его встретили восторженные толпы сторонников. В тот же день он принял в Рейхстаге присягу на Конституции. Сообщалось, что лишь накануне престарелый фельдмаршал впервые прочитал текст основного закона и даже нашёл документ «неплохим».@@@У коммунистов и их сторонников победа Гинденбурга вызвала смятение и споры: было ли ошибкой, не оказав поддержки Марксу, помочь стать рейхспрезидентом реакционному кайзеровскому фельдмаршалу? Или же это удачно разыгранная «национал-фашистами» (правые) и «социал-фашистами» (социал-демократы и центристы) комбинация по «поправению» режима, подготовка перехода к открытой фашистской диктатуре?
+quotationAuthor | 
+pictureName | 1925HindenburgComicPres$Collotti350pxw_1925 Georg Grosz satire.png
+effectMoney | 
+effectJob | 
+effectStatus | 
+effectTrigger | 

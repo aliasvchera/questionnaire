@@ -1,0 +1,18 @@
+conditionTrigger | RB-answer-Chaos
+conditiondDate | 
+conditionPeriod | 
+conditionDeath | 
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | Штурмовик сделал озабоченное лицо «Так мы же все тоже против хаоса. Но это государство движется к распаду и хаосу с самого момента его возникновения. В общем, вот – возьми почитай, может поймешь, почему миллионы немцев возлагают все свои надежды именно на наше движение».@@@Нацист сунул Вам в руки партийную газету, остальные СА-манны расступились, давая Вам уйти.@@@На этот раз, вроде бы, обошлось.
+quotationAuthor | 
+pictureName | SA-in-Rothenburg-vor-1933_resized.jpg
+effectMoney | 
+effectJob | 
+effectStatus | 
+effectTrigger | Nazi-propaganda-RB

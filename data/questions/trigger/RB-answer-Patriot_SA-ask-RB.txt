@@ -1,0 +1,26 @@
+conditionTrigger | RB-answer-Patriot
+conditiondDate | 
+conditionPeriod | 
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | Наци даже обрадовался: «Патриот? Прекрасно! А скажи мне, патриот, что общего между патриотизмом и защитой лживого гнилого режима партийных бонз, которые больше беспокоятся не о немецком народе, а о выслуживании перед нашими западными поработителями? Как патриотизм у тебя уживается со смирной покорностью версальскому диктату, а?»
+pictureName | SA-in-Rothenburg-vor-1933_resized.jpg
+answerText | Чёрт подери, а что ты предлагаешь? Развязать гражданскую войну, развалить всё, что у нас осталось, и разбить себе лоб о французские танки?#Есть времена, когда нужно уметь, стиснув зубы, переждать, выстоять и, когда наступит наш час, отыграть своё.#Мне все эти разговоры уж очень напоминают «дух 1914». Советую вспомнить, чем это для нас всех закончилось.##
+answerConditionPolitical | 
+answerConditionKampfbund | 
+effectPolitical | nationalist+1#republican+1###
+effectKampfbund | 
+effectMortality | 
+effectCustody | 
+effectCustodyTerm | 
+effectKampfbundJoinOrLeft | 
+effectMoney | 
+effectJob | 
+effectOccasion | 
+effectStatus | 
+effectTrigger | RB-answer-Chaos#RB-answer-Waiting#RB-answer-Philistine##

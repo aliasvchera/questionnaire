@@ -1,0 +1,18 @@
+conditionTrigger | RB-answer-Fight
+conditiondDate | 
+conditionPeriod | 
+conditionDeath | death-
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | На лице наци заиграли желваки: «Зря, очень зря. Тебе предложили нормально поговорить, но ты слишком тупой или твердолобый соци… Эй, ребята!»@@@Понятное дело, против шестерых ничего не сделаешь, поэтому уже через пять минут Вы лежали без движения с разбитым в кровь лицом на мостовой.@@@Не одна неделя понадобилась чтобы залечить раны и встать на ноги.
+quotationAuthor | 
+pictureName | 545954707_reichsbanner-leader-karl-hoeltermann-welcoming-reichsbanner.jpg
+effectMoney | 
+effectJob | 
+effectStatus | 
+effectTrigger | 

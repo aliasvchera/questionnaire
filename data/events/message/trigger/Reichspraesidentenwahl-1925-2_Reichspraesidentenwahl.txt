@@ -1,0 +1,18 @@
+conditionTrigger | Reichspraesidentenwahl-1925-2
+conditiondDate | 
+conditionPeriod | 
+conditionDeath | 
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | –езультаты второго тура выборов
+mainText | ѕауль фон √инденбург (»мперский блок) Ц 48,3%@@@¬ильгельм ћаркс (Ќародный блок) Ц 45,3%@@@Ёрнст “ельман ( ѕ√) Ц 6,4%@@@явка избирателей составила 77%.@@@–ейхспрезидентом избран фельдмаршал ѕауль фон √инденбург.
+quotationAuthor | 
+pictureName | 
+effectMoney | 
+effectJob | 
+effectStatus | 
+effectTrigger | 

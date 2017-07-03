@@ -1,0 +1,18 @@
+conditionTrigger | RB-answer-Fuehrer
+conditiondDate | 
+conditionPeriod | 
+conditionDeath | 
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | Наци замотал головой: «Мимо, «рейхсбанан»! Мы добровольно отдали себя под командование фюрера, поскольку он лучший из нас и под его руководством мы боремся за НАШИ цели, да, парни?» Штурмовики закивали. Их вожак продолжал: «Это как в армии: план битвы не принимается всеобщим голосованием после долгих дебатов – это был бы путь к неразберихе, развалу и поражению. А мы ведь армия грядущей национальной революции. В общем, наш вождь – концентрация и выражение нашей общей воли. А теперь сравни с руководителями вашей потешной чёрно-красно-горчичной армии: пузатые бонзы, назначенцы-бюрократы и карьеристы, серые скучные посредственные люди – куда можно прийти под их руководством?».
+quotationAuthor | 
+pictureName | SA-in-Rothenburg-vor-1933_resized.jpg
+effectMoney | 
+effectJob | 
+effectStatus | 
+effectTrigger | RB-answer-Bonzen
