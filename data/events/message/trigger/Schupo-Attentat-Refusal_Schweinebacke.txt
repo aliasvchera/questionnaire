@@ -1,0 +1,18 @@
+conditionTrigger | Schupo-Attentat-Refusal
+conditiondDate | 
+conditionPeriod | 
+conditionDeath | 
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | Товарищ Ханс смерил Вас презрительным взглядом и процедил сквозь зубы: «Значит, я в тебе ошибся. Всего наилучшего, «товарищ». И никому не слова, понял?»@@@Вы хмуро кивнули и ушли прочь.
+quotationAuthor | 
+pictureName | Hermann Hagendorf.jpg
+effectMoney | 
+effectJob | 
+effectStatus | 
+effectTrigger | 

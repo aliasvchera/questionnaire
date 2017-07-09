@@ -1,0 +1,18 @@
+conditionTrigger | 
+conditiondDate | 
+conditionPeriod | 1924-07#1927-12#m
+conditionDeath | 
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | Союз красных фронтовиков
+mainText | Коммунисты – подобно их противникам из иных политических лагерей – со временем пришли к необходимости создания собственных парамилитарных партийных групп. Предтечей коммунистического боевого союза можно считать «пролетарские сотни» – отряды самообороны, создаваемые в основном из рабочих крупных заводов в 1922-1923 годах, в особенности в Тюрингии и Саксонии, где в то время к власти пришли «красные» правительства. После их запрета имперским правительством осенью 1923 года некоторые «пролетарские сотни» продолжали существовать нелегально.
+quotationAuthor | 
+pictureName | 1928_Logo_Rotfrontkaempferbund_Lychen.jpg
+effectMoney | 
+effectJob | 
+effectStatus | RFB-story+
+effectTrigger | RFB-establishment

@@ -1,0 +1,18 @@
+conditionTrigger | 
+conditiondDate | 
+conditionPeriod | 1925-05#1927-12#m
+conditionDeath | 
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | Штурмовые отряды
+mainText | После провала мюнхенского путча Гитлера-Людендорфа НСДАП была запрещена вместе со всеми её организациями, в том числе и СА.@@@Чтобы обойти этот запрет, НСДАП была восстановлена под именем «Национал-социалистическая партия свободы», а вместо СА в апреле 1924 года возник «Фронтбанн» («Фронтовой отряд») под руководством Эрнста Рёма.@@@После снятия 25 февраля 1925 года запрета на деятельность НСДАП и СА достигший уже 30 тысяч человек «Фронтбанн» был распущен, и большинство его боевиков влились в возрождённые «Штурмовые отряды».
+quotationAuthor | 
+pictureName | hg_20er_7_Aufmarsch der SA bei Muenchen.jpg
+effectMoney | 
+effectJob | 
+effectStatus | SA-story+
+effectTrigger | 

@@ -1,0 +1,18 @@
+conditionTrigger | Attack-STA-HQ
+conditiondDate | 
+conditionPeriod | 
+conditionDeath | 
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | RFB+ RB+
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | Налёт вышел что надо! Фашисты из «Шта» не ожидали нападения, поэтому получилось разнести подчистую их штаб и успеть скрыться до прибытия полиции.
+quotationAuthor | 
+pictureName | 33931706_6_l.jpg
+effectMoney | 
+effectJob | 
+effectStatus | 
+effectTrigger | 

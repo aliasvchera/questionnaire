@@ -1,8 +1,0 @@
-currentYear | 1925
-currentMonth | 2
-isDead | false
-inCustody | false
-currentMessage | \events\message\date\#1925-02_Ebert-death.txt
-gameMoment | 3
-triggerName | 
-triggerGameMoment | 

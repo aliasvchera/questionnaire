@@ -1,0 +1,18 @@
+conditionTrigger | Schupo-Attentat-Execution
+conditiondDate | 
+conditionPeriod | 
+conditionDeath | 
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | Спустя три дня Вы, как было заранее условлено, караулили на углу улицы там, где она выходит на площадь. Вот двое непосредственных исполнителей операции, совсем молодые ребята, кстати, не фронтовики, начали приближаться к «шупо». Кроме лейтенанта Свиные щёки там было ещё двое «шупо», но это их проблемы – значит, им сегодня не повезло.@@@Вы ещё раз пристально осмотрели улицу – полицейских патрулей не было видно. Тогда Вы громко крикнули «Свиные щёки» – это был условленный сигнал.@@@Раздались выстрелы…
+quotationAuthor | 
+pictureName | An unemployed man trying to avoid two policemen outside a Berlin railway station.jpeg
+effectMoney | 
+effectJob | 
+effectStatus | 
+effectTrigger | Schupo-Attentat-Execution-Final

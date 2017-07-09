@@ -1,0 +1,18 @@
+conditionTrigger | Ruhr-Rote-Armee-1920
+conditiondDate | 
+conditionPeriod | 
+conditionDeath | death-
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | 2 апреля рейхсвер при поддержке фрайкоров (в том числе и ещё недавно выступавших против законного правительства на стороне путчистов, таких как Морская бригада фон Лёвенфельда и Морская бригада Эрхардта) вступил на территорию Рурской области для подавления восстания. Боевые действия сопровождались смертными приговорами и массовыми расстрелами, несмотря на запрет на самочинные расправы рейхспрезидента Эберта от 3 апреля. К 8 апреля восстание было в основном подавлено.@@@После поражения Красной армии Рура Вам удалось благополучно уйти от расправы правительственных войск, сбежав во французскую оккупационную зону.
+quotationAuthor | 
+pictureName | 545969757-_Kapp Putsch Position of the Red Ruhr Army in Lohberg March 1920.jpg
+effectMoney | 
+effectJob | 
+effectStatus | 
+effectTrigger | 

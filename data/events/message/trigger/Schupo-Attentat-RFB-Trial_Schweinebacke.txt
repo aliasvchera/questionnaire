@@ -1,0 +1,18 @@
+conditionTrigger | Schupo-Attentat-RFB-Trial
+conditiondDate | 
+conditionPeriod | 
+conditionDeath | 
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | Товарищ Ханс полушёпотом начал объяснять, что ему от Вас нужно: «Есть один офицер полиции, старший лейтенант Свиные щёки. Он лютый враг рабочего класса, убийца рабочих. Решено (он показал глазами вверх) с ним разобраться. От тебя требуется только некоторая помощь – покараулить на место операции… Ты прямо сейчас не отвечай, послушай свидетелей – будут говорить как раз о его «подвигах».
+quotationAuthor | 
+pictureName | 230475729-republikanischer-schutzbund-deployment-police-uniform-parade-military.jpg
+effectMoney | 
+effectJob | 
+effectStatus | 
+effectTrigger | Schupo-Attentat-Zeugenaussage

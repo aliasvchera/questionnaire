@@ -1,0 +1,18 @@
+conditionTrigger | Emigrant
+conditiondDate | 
+conditionPeriod | 
+conditionDeath | death+
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | После 1933 года
+mainText | После прихода к власти национал-социалистов Вы эмигрировали в марте 1933 года через Швейцарию во Францию. После вступления вермахта в Париж в 1940 году бежали в Марсель, но осенью 1940 года были арестован и выданы гестапо. В январе 1942 года помещены в концентрационный лагерь Заксенхаузен, осенью 1943 года Вы были переведён в особый барак концлагеря Бухенвальд. Согласно официальной версии нацистских властей, погибли в августе 1944 года во время бомбардировки Бухенвальда союзниками, но многие Ваши знакомые считали, что это дело рук гестапо.
+quotationAuthor | 
+pictureName | Bundesarchiv_Bild_183-R88978,_KZ_Oranienburg,_SA-Maenner_vor_SPD-Haeftlingen.jpg
+effectMoney | 
+effectJob | 
+effectStatus | 
+effectTrigger | The-End

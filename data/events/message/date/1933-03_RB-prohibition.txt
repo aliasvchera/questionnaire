@@ -1,0 +1,26 @@
+conditionTrigger | 
+conditiondDate | 1933-03
+conditionPeriod | 
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | RB+
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | Вышел правительственный запрет «Рейхсбаннера», его униформы и символики.
+pictureName | Nacht der langen Messer vom Klassenkampf zum Buergerkrieg 1933 SW NS Drittes Reich SA Roehm.jpg
+answerText | Лучше всё это – в том числе и членскую книжку – сжечь на случай обыска.#Припрячу-ка униформу, символику и документы до лучших времён.#Может, руководство союза сдалось, а я нет. Сейчас же одеваю униформу, выхожу на улицу – и будь что будет.#Нужно уезжать из страны пока до меня ещё не добрались!#
+answerConditionPolitical | 
+answerConditionKampfbund | ##RB+2##
+effectPolitical | #republican+1#republican+2##
+effectKampfbund | 
+effectMortality | 0,5#0,5#0,5#0,5#
+effectCustody | 
+effectCustodyTerm | 
+effectKampfbundJoinOrLeft | 
+effectMoney | 
+effectJob | 
+effectOccasion | 
+effectStatus | 
+effectTrigger | Neutral-philistine#Disloyal-philistine#Arrested-Sozi#Emigrant#

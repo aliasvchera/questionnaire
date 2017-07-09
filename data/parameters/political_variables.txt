@@ -1,5 +1,0 @@
-NAME | activism | activismRequirement
-socialist | 1 | 18
-republican | 18 | 22
-conservative | 2 | 19
-nationalist | 3 | 20

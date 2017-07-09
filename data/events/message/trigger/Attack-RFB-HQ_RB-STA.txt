@@ -1,0 +1,18 @@
+conditionTrigger | Attack-RFB-HQ
+conditiondDate | 
+conditionPeriod | 
+conditionDeath | 
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | RB+ STA+
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | Большевики не успели толком сообразить, что происходит как Ваш отряд уже скрылся, оставив после себя разгромленное вражеское логово и избитых «коци», которым не посчастливилось оказаться там во время Вашего «визита».
+quotationAuthor | 
+pictureName | kpd-1931-01.jpg
+effectMoney | 
+effectJob | 
+effectStatus | 
+effectTrigger | 

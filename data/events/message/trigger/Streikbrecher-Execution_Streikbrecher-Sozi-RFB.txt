@@ -1,0 +1,18 @@
+conditionTrigger | Streikbrecher-Execution
+conditiondDate | 
+conditionPeriod | 
+conditionDeath | 
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | Вся операция прошла успешно, штрейкбрехер от неожиданности даже не забыл защищаться. Теперь, подумали Вы, это станет ему хорошим уроком, почему не нужно быть предателем интересов рабочего класса и соглашателем.
+quotationAuthor | 
+pictureName | Die Ortsgruppe des Roten Frontkaempferbundes Lobstaedt (Sachsen) nach einem Wahlkampfeinsatz (1925 oder spaeter).jpg
+effectMoney | 
+effectJob | 
+effectStatus | 
+effectTrigger | 

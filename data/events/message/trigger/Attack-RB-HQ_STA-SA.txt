@@ -1,0 +1,18 @@
+conditionTrigger | Attack-RB-HQ
+conditiondDate | 
+conditionPeriod | 
+conditionDeath | 
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | STA+ SA+
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | «Рейхсбананы» были разгромлены подчистую. Прибывшая полиция имела честь лицезреть выбитые двери, поломанные стулья и стонущих на полу как избитые собаки «соци».
+quotationAuthor | 
+pictureName | Das Bild zeigt den von italienischen Faschisten ermordeten Sozialistenfuehrer Matteotti.jpg
+effectMoney | 
+effectJob | 
+effectStatus | 
+effectTrigger | 

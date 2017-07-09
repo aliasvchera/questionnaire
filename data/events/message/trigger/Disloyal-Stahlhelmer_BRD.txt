@@ -1,0 +1,18 @@
+conditionTrigger | Disloyal-Stahlhelmer
+conditiondDate | 
+conditionPeriod | 
+conditionDeath | death-
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | Практически сразу после получения Гитлером чрезвычайных полномочий началось давление на «Стальной шлем». В апреле 1933 года бундесфюрер Франц Зельдте отдал и себя и союз в подчинение новому рейхсканцлеру. Через год произошло частичное слияние с СА («Вершта» и «Юнгшта»), а остатки «Стального шлема» получили теперь название «Национал-социалистический немецкий союз фронтовиков» (Nationalsozialistischer Deutscher Frontkaempferbund). Окончательно союз был распущен 7 ноября 1935 года распоряжением Адольфа Гитлера.@@@Нельзя сказать, что это планомерное уничтожение «Штальхельма» было Вам по душе.@@@Между тем, Вы снова поступили на службу в армию, получили звание лейтенанта и после Французской кампании 1940 года находились в гарнизонных частях в Бельгии.@@@Вы были связаны с «июльскими заговорщиками» в армии, но избежали расправы, попав в ходе боёв в плен к англичанам.@@@После войны принимали участие в попытке воссоздания «Стального шлема» в 1951 году в Кёльне.
+quotationAuthor | 
+pictureName | albert-kesselring-spoke-at-a-reunion-of-the-stahlhelm-at-giessen-bedjwx.jpg
+effectMoney | 
+effectJob | 
+effectStatus | 
+effectTrigger | The-End

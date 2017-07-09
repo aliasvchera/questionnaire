@@ -1,0 +1,18 @@
+conditionTrigger | Beat-Kozi-RB-Finish
+conditiondDate | 
+conditionPeriod | 
+conditionDeath | death+
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | Как оказалось, сделать всё тихо и незаметно не получилось: только вы приступили к «перевоспитанию коци» как вечернюю тишину прорезал резкий звук полицейского свистка. Не желая на своей шкуре проверять заверения Фрерксена о лояльности полиции, Вы с Вреде рванули в разные стороны. Полиция стала стрелять. Вам не повезло.@@@Хоронили Вас со всеми почестями: дело замяли (Фрерксен постарался) и камерадшафтсфюрер Гарайс прочитал над гробом торжественную траурную речь о непрекращающейся борьбе с радикалами и героически павших, защищая республику.
+quotationAuthor | 
+pictureName | 545705579_Funeral service for murderer members of the Reichsbanner in Hamburg Ohlsdorf.jpg
+effectMoney | 
+effectJob | 
+effectStatus | 
+effectTrigger | The-End

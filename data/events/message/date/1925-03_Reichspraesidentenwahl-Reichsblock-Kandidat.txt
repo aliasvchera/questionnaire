@@ -1,0 +1,18 @@
+conditionTrigger | 
+conditiondDate | 1925-03
+conditionPeriod | 
+conditionDeath | 
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | Политические партии начали спешно определяться с кандидатами и готовиться к внеочередным выборам.@@@Национал-либеральная Немецкая народная партия (ННП), национал-консервативная Немецкая национальная народная партия (НННП) и консервативная Экономическая партия немецкого среднего класса сформировали «Имперский блок» (Reichsblock), выдвинув своим кандидатом члена ННП мэра Дуйсбурга Карла Ярреса, получившего всегерманскую общенациональную известность во время Рурского кризиса, когда его на два месяца посадили по приговору военного трибунала франко-бельгийские оккупанты за отказ сотрудничать с ними. В выдвижении единого кандидата от консерваторов активную роль сыграл бывший министр внутренних дел Пруссии Фридрих Вильгельм фон Лёбель, который рассчитывал, что победа Ярреса приведет к реконструированию государства в прусско-германском духе.
+quotationAuthor | 
+pictureName | Bundesarchiv_Bild_146-1976-033-15,_Berlin,_Wahlpropaganda - Reichspraesidentenwahl 1925 - Anhaenger des Rechtsliberalen Karl Jarres fahren durch Berlin.jpg
+effectMoney | 
+effectJob | 
+effectStatus | 
+effectTrigger | Weimarer-Kandidaten-1925

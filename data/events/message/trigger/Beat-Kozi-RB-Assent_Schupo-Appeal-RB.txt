@@ -1,0 +1,18 @@
+conditionTrigger | Beat-Kozi-RB-Assent
+conditiondDate | 
+conditionPeriod | 
+conditionDeath | 
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | «Отлично!» – Фрерксен просиял. – «Я уже договорился с товарищем Вреде, займётесь «воспитанием коци» вместе с ним».
+quotationAuthor | 
+pictureName | geschichte_12_1_kamerad_Max_Rothe.jpg
+effectMoney | 
+effectJob | 
+effectStatus | 
+effectTrigger | Beat-Kozi-RB-Start

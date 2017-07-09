@@ -1,3 +1,4 @@
+// Create shortcut in the folder
 @set @x=0; /*
 @cscript /e:jscript "%~f0"
 @exit */

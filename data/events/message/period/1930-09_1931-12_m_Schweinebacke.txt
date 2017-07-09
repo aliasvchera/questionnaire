@@ -1,0 +1,18 @@
+conditionTrigger | 
+conditiondDate | 
+conditionPeriod | 1930-09#1931-12#m
+conditionDeath | 
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | RFB+
+conditionPolitical | 
+conditionActivism | activist+
+usedMax | 1
+captionText | 
+mainText | Вы имели репутацию надёжного человека, поэтому совсем не удивились когда товарищ Ханс, далеко не простой «красный фронтовик», многозначительно предложил Вам пойти с ним сегодня на заседания пролетарского суда.
+quotationAuthor | 
+pictureName | Hermann Hagendorf.jpg
+effectMoney | 
+effectJob | 
+effectStatus | 
+effectTrigger | Schupo-Attentat-RFB-Trial

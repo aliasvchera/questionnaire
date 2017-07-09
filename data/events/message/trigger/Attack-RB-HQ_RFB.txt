@@ -1,0 +1,18 @@
+conditionTrigger | Attack-RB-HQ
+conditiondDate | 
+conditionPeriod | 
+conditionDeath | 
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | RFB+
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | Социал-фашисты явно не ждали никого в гости, поэтому разнести вдребезги их штаб не составило никакого труда. Перепуганные бандиты Зеверинга панически бежали через выбитые окна.
+quotationAuthor | 
+pictureName | Beer Hall Fight between Communists and Members of the Reichsbanner (c. 1930).jpg
+effectMoney | 
+effectJob | 
+effectStatus | 
+effectTrigger | 

@@ -1,0 +1,18 @@
+conditionTrigger | Clandestine-Kozi
+conditiondDate | 
+conditionPeriod | 
+conditionDeath | death+
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | После прихода к власти нацистов Вы перешли на нелегальное положение, но уже в апреле 1933 года были арестованы и отправлены в концлагерь Дахау. В мае 1933 года смогли, задушив охранника из СА, бежал в его униформе из концлагеря и эмигрировать в Чехословакию. После начала Гражданской войны в Испании в 1936 году участвовали в организации отрядов немецких антифашистов в помощь республиканскому правительству Испании и сражались в 3-м батальоне имени Эрнста Тельмана 11-й интербригады республиканской армии Испании. В декабре 1936 года погибли в бою под Мадридом.
+quotationAuthor | 
+pictureName | E-rnst-Bush1.jpg
+effectMoney | 
+effectJob | 
+effectStatus | 
+effectTrigger | The-End

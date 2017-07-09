@@ -9,9 +9,9 @@ conditionPolitical |
 conditionActivism | 
 usedMax | 1
 captionText | 
-mainText | Товарищ Вольфе выглядел очень расстроенным: «Жаль, очень жаль. Я на Вас рассчитывал. Что ж, забудьте всё, что я сейчас сказал».
+mainText | Товарищ Лёве выглядел очень расстроенным: «Жаль, очень жаль. Я на Вас рассчитывал. Что ж, забудьте всё, что я сейчас сказал».
 quotationAuthor | 
-pictureName | WR_stahlhelm_31.jpeg
+pictureName | stahlhelmloewe_Kamerad Loewe.jpg
 effectMoney | 
 effectJob | 
 effectStatus | 

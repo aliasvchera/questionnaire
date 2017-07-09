@@ -1,0 +1,18 @@
+conditionTrigger | Arrested-Sozi
+conditiondDate | 
+conditionPeriod | 
+conditionDeath | death-
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | После ареста Вас сильно избили в тюрьме. Следующие 10 лет провели в концентрационных лагерях Нойберг, Куберг, Флоссенбюрг и Дахау. Вы остались живы в основном из-за некоторого снисхождения, которое нацисты проявляли к Вам как к фронтовику с наградами и боевыми ранениями.@@@В 1943 году, когда Вы были уже при смерти,  родственники добились освобождения по состоянию здоровья, но в конце 1944 года последовал новый арест и заключение в концлагере Нойенгамме, откуда Вас освободили англичане в апреле 1945 года.@@@В дальнейшем Вы стали активным деятелем возрождённой СДПГ в западных оккупационных зонах, а впоследствии – и ФРГ.
+quotationAuthor | 
+pictureName | Bundesarchiv_Bild_183-R88978,_KZ_Oranienburg,_SA-Maenner_vor_SPD-Haeftlingen.jpg
+effectMoney | 
+effectJob | 
+effectStatus | 
+effectTrigger | The-End

@@ -1,5 +1,0 @@
-SHORT_NAME | membership | reputation | rank
-RFB | false | 0 | 0
-RB | true | 4 | 0
-STA | false | 3 | 0
-SA | false | 3 | 0

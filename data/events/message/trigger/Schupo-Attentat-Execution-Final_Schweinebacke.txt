@@ -1,0 +1,18 @@
+conditionTrigger | Schupo-Attentat-Execution-Final
+conditiondDate | 
+conditionPeriod | 
+conditionDeath | death-
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | Со всех сторон стреляли. Вы прижались к стене. С противоположной стороны площади появились полицейские, они стали бежать в Вашу сторону. Путь отхода был через чёрных ход кинотеатра.@@@Всё прошло успешно, от полиции получилось улизнуть. @@@Товарищ Ханс и другие ответственные товарищи лично поблагодарили Вас за отлично проделанную работу. Теперь Вы были на особом счету у руководства.@@@В ходе операции было убито двое «шупо», в том числе и Свиные щёки. Для устрашения полиции через пару дней рядом с местом операции на стене появилась надпись «За одного застреленного рабочего – два «шупо»-офицера!»
+quotationAuthor | 
+pictureName | Bilder-aus-dem-begleitbuch-zum-Film-ER-2_Die Drohung der KPD im Sommer 1931 war eindeutig.jpg
+effectMoney | 
+effectJob | 
+effectStatus | 
+effectTrigger | 

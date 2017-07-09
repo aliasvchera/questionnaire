@@ -1,0 +1,18 @@
+conditionTrigger | Schupo-Attentat-Consent
+conditiondDate | 
+conditionPeriod | 
+conditionDeath | 
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | Товарищ Ханс энергично пожал Вам руку: «Значит, я в тебе не ошибался, товарищ! На днях это всё должно произойти, поэтому будь готов!»@@@Вы молчали кивнули.
+quotationAuthor | 
+pictureName | Hermann Hagendorf.jpg
+effectMoney | 
+effectJob | 
+effectStatus | 
+effectTrigger | Schupo-Attentat-Execution

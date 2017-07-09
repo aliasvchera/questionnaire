@@ -1,0 +1,18 @@
+conditionTrigger | Emigrant-Kozi
+conditiondDate | 
+conditionPeriod | 
+conditionDeath | death+
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | Сразу же после прихода к власти нацистов Вы эмигрировали из Германии. С 1935 года — в СССР, где работали сотрудником «Немгосиздата» в городе Энгельсе (АССР немцев Поволжья). Арестованы НКВД в феврале 1936 года. 3 октября 1937 года по обвинению в участии в «антисоветской троцкистско-нацистской террористической организации» Вы были приговорены Верховным судом СССР к высшей мере наказания. Расстреляны в тот же день в Москве.
+quotationAuthor | 
+pictureName | assrdwdbuch.jpg
+effectMoney | 
+effectJob | 
+effectStatus | 
+effectTrigger | The-End

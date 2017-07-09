@@ -1,0 +1,18 @@
+conditionTrigger | 
+conditiondDate | 1919-01
+conditionPeriod | 
+conditionDeath | 
+conditionOccasion | 
+conditionStatus | Freikorps+
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | В Берлине вспыхнуло восстание «спартакистов», поэтому Вашу часть срочно отправили подавлять мятеж.
+quotationAuthor | 
+pictureName | kapp-5b.jpg
+effectMoney | 
+effectJob | 
+effectStatus | 
+effectTrigger | 

@@ -1,0 +1,18 @@
+conditionTrigger | 
+conditiondDate | 
+conditionPeriod | 1921-04#1925-04#y
+conditionDeath | 
+conditionOccasion | 
+conditionStatus | profession_Student-Jurist+
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | Вы успешно сдали экзамены (аттестационная комиссия лояльно относится к фронтовикам) и получили диплом.
+quotationAuthor | 
+pictureName | Bundesarchiv_Bild_102-00995,_Berlin,_Feier_studentischer_Verbindungen.jpg
+effectMoney | 
+effectJob | 
+effectStatus | profession_Student-Jurist- profession_Jurist+
+effectTrigger | 

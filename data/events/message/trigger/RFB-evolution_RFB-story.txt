@@ -1,0 +1,18 @@
+conditionTrigger | RFB-evolution
+conditiondDate | 
+conditionPeriod | 
+conditionDeath | 
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | Союз красных фронтовиков
+mainText | В отличие от националистических союзов, «Союз красных фронтовиков» первоначально был подчёркнуто антимилитаристическим, агитируя возвести «широкий защитный вал против грядущей войны».@@@Но, стараясь конкурировать со «Стальным шлемом», СА и «Рейхсбаннером», внешне «Рот-фронт» всё более «милитаризировался»: зелёные «русские» гимнастёрки, фуражки, ремни, брюки и высокие сапоги.@@@Символом союза был сжатый кулак («красный кулак»), а приветствием – «Ротфронт!».
+quotationAuthor | 
+pictureName | d7439d842ec5.jpg
+effectMoney | 
+effectJob | 
+effectStatus | 
+effectTrigger | 

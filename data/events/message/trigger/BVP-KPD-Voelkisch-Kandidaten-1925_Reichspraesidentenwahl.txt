@@ -1,0 +1,18 @@
+conditionTrigger | BVP-KPD-Voelkisch-Kandidaten-1925
+conditiondDate | 
+conditionPeriod | 
+conditionDeath | 
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 29 марта 1925 года
+mainText | Консервативная католическая Баварская народная партия не стала поддерживать Вильгельма Маркса, а выдвинула в качестве кандидата министра-президента Баварии Генриха Гельда. @@@Коммунистическая партия Германии (КПГ) выдвинула своим кандидатом гамбургского профсоюзного деятеля Эрнста Тельмана, известного активным участием в Гамбургском восстании 1923 года. @@@Генерал Эрих Людендорф стал кандидатом от Немецкого фёлькиш движения свободы – объединения различных фёлькиш-партий, в том числе и НСДАП, запрет на деятельность которой был снят только 26 февраля 1925 года.
+quotationAuthor | 
+pictureName | Bundesarchiv_Bild_183-14686-0026,_Essen,_Reichspraesidentenwahl,_KPD-Wahlwerbung.jpg
+effectMoney | 
+effectJob | 
+effectStatus | 
+effectTrigger | 

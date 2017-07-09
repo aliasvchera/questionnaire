@@ -1,0 +1,18 @@
+conditionTrigger | Clandestine-Kozi
+conditiondDate | 
+conditionPeriod | 
+conditionDeath | death-
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | После прихода к власти национал-социалистов Вы перешли на нелегальное положение, а затем переехали в Саар и позднее в Париж. Весной 1935 года Вы были вызваны на работу в Красный интернационал профсоюзов в Москву.@@@В 1945 году вернулись из СССР в советскую зону оккупации Германии и работали во главе группы немецких эмигрантов в Мекленбурге. В 1947—1948 годах работали на руководящих должностях в Центральном управлении топливной промышленности, а с 1949 года – в министерстве тяжёлой промышленности ГДР.
+quotationAuthor | 
+pictureName | ddr_060.jpg
+effectMoney | 
+effectJob | 
+effectStatus | 
+effectTrigger | The-End

@@ -1,0 +1,18 @@
+conditionTrigger | Spartakus-1919
+conditiondDate | 
+conditionPeriod | 
+conditionDeath | death+
+conditionOccasion | 
+conditionStatus | Spartakus-1919+
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | Вы погибли в ходе уличных боёв с контрреволюционными войсками правительства Эберта-Носке.
+quotationAuthor | 
+pictureName | Shot fighters of the Spartacist uprising in Berlin Lichtenberg January 1919.jpeg
+effectMoney | 
+effectJob | 
+effectStatus | 
+effectTrigger | The-End

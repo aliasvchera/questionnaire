@@ -1,0 +1,18 @@
+conditionTrigger | Attack-STA-HQ
+conditiondDate | 
+conditionPeriod | 
+conditionDeath | 
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | RB+ SA+
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | Солдафоны из «Шта» как раз упражнялись в хоровом пении, когда Вы с товарищами влетели в их притон. Ни о каком организованном сопротивлении не могло быть и речи, поэтому задание по разгрому вражеского блиндажа было выполнено без потерь.
+quotationAuthor | 
+pictureName | 33931706_6_l.jpg
+effectMoney | 
+effectJob | 
+effectStatus | 
+effectTrigger | 

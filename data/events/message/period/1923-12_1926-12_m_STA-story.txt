@@ -1,0 +1,18 @@
+conditionTrigger | 
+conditiondDate | 
+conditionPeriod | 1923-12#1926-12#m
+conditionDeath | 
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | Стальной шлем
+mainText | «Стальной шлем, Союз солдат-фронтовиков» (Stahlhelm, Bund der Frontsoldaten) был создан ветераном Западного фронта, потерявшим руку в битве на Сомме, обер-лейтенантом (впоследствии гауптманом) Францом Зельдте, его братьями Ойгеном и Георгом и дюжиной сослуживцев из 66 пехотного полка 25 декабря 1918 года. Это событие произошло в лаборатории на заводе по производству минеральной воды, принадлежавшему Зельдте, в Магдебурге (провинция Саксония Свободного государства Пруссия).@@@В протоколе первого собрания новосозданной организации указывались две главные цели: поддерживать 1) дух боевого товарищества и экономических требований демобилизованных солдат независимо от социальных различий и партийной принадлежности и 2) закон и порядок в период революции.
+quotationAuthor | 
+pictureName | tn_WestWal.ru d1408cv (14).jpg
+effectMoney | 
+effectJob | 
+effectStatus | STA-story+
+effectTrigger | STA-Freikorps-transformation

@@ -1,0 +1,18 @@
+conditionTrigger | Kapp-Luettwitz-1920
+conditiondDate | 
+conditionPeriod | 
+conditionDeath | 
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | Всеобщая забастовка профсоюзов, бойкот чиновников и полная беспомощность правительства путчистов привели к тому, что уже через 5 дней, 17 марта, Капп капитулировал, выпустив воззвание «После того, как правительство Бауэра решило выполнить важнейшие политические требовании, которые послужили причиной образования 13 марта 1920 года правительства Каппа, рейхсканцлер Капп считает свою миссию выполненной и подает в отставку».
+quotationAuthor | 
+pictureName | 640px-Kapp_demo.jpg
+effectMoney | 
+effectJob | 
+effectStatus | 
+effectTrigger | 

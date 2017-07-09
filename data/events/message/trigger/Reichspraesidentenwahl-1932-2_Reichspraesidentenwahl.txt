@@ -1,0 +1,18 @@
+conditionTrigger | Reichspraesidentenwahl-1932-2
+conditiondDate | 
+conditionPeriod | 
+conditionDeath | 
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | –езультаты второго тура выборов
+mainText | ѕауль фон √инденбург (независимый) Ц 53,1%@@@јдольф √итлер (Ќ—ƒјѕ) Ц 36,8%@@@Ёрнст “ельман ( ѕ√) Ц 10,2%@@@явка избирателей составила 84%.@@@–ейхспрезидентом избран действующий рейхспрезидент фельдмаршал ѕауль фон √инденбург.
+quotationAuthor | 
+pictureName | 
+effectMoney | 
+effectJob | 
+effectStatus | 
+effectTrigger | 

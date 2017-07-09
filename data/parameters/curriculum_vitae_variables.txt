@@ -1,3 +1,0 @@
-STATUS_NAME | isActual
-profession_Angestellte | true
-Freikorps | false

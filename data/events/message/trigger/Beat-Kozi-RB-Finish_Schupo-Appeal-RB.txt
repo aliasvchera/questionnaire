@@ -1,0 +1,18 @@
+conditionTrigger | Beat-Kozi-RB-Finish
+conditiondDate | 
+conditionPeriod | 
+conditionDeath | death-
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | Дальше всё прошло до неприличия легко. Пьяный большевик не мог оказать сопротивления (Вам даже стало его немного жалко), и поэтому «воспитывали» его основательно, но в полном спокойствии и без какой-то особой злости.@@@Потом Вы с Вреде ушли от кабака разными путями до прибытия полиции.@@@Товарищ Фрерксен был сама благодарность (через две недели он сообщил, что тот «коци» вообще переехал на другой конец города), а камерадшафтсфюрер Гарайс как-то произнёс многозначительную туманную речь о важности товарищества и взаимовыручки в рядах «Рейхсбаннера».
+quotationAuthor | 
+pictureName | Der Reichsbanner Hachborn, spaete 1920er Jahre.jpg
+effectMoney | 
+effectJob | 
+effectStatus | 
+effectTrigger | 

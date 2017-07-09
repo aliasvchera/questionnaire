@@ -1,0 +1,18 @@
+conditionTrigger | STA-Freikorps-transformation
+conditiondDate | 
+conditionPeriod | 
+conditionDeath | 
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | Стальной шлем
+mainText | Хотя «Стальной шлем» негативно относился к революции, изначально он не был антиреспубликанской и расистской организацией: к членству в нём были допущены социал-демократы и евреи, единственным требованием было 6 месяцев фронтового «стажа». В заявлении от 6 января 1919 года указывалось, что организация «стоит на республиканских позициях». В действительности же на тот момент у «Стального шлема» не было ещё никакой политической программы.@@@После окончательного запрета и роспуска фрайкоров в 1920 году многие из них трансформировались в «боевые союзы» (Kampfbund), союзы ветеранов и прочие подобные организации, большинство из которых было крайне правыми и антиреспубликанскими.@@@«Стальной шлем», однако, отличался двумя особенностями: относительно умеренная политическая ориентация и поразительные темпы роста численности организации.
+quotationAuthor | 
+pictureName | police-aeroplanes-circled-overhead-and-mounted-and-foot-police-tried-picture-id591971170.jpeg
+effectMoney | 
+effectJob | 
+effectStatus | 
+effectTrigger | STA-Organisation-growth

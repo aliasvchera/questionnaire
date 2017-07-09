@@ -1,0 +1,18 @@
+conditionTrigger | 
+conditiondDate | 1919-01
+conditionPeriod | 
+conditionDeath | 
+conditionOccasion | 
+conditionStatus | Spartakus-1919+
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | Вы приехали в Берлин и присоединились к революционным солдатам, матросам и рабочим.
+quotationAuthor | 
+pictureName | ju007091_Januaraufstand in Berlin, 1919.jpg
+effectMoney | 
+effectJob | 
+effectStatus | 
+effectTrigger | Spartakus-1919

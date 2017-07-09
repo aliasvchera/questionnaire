@@ -1,0 +1,18 @@
+conditionTrigger | Beat-Kozi-RB-Refusal
+conditiondDate | 
+conditionPeriod | 
+conditionDeath | 
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | Товарищ-полицейский скривился: «Ладно, забудь, что я тебе говорил. Хоть в этом на тебя положиться можно?».@@@Вы ответили сухим «Да» и на этом разговор закончился.
+quotationAuthor | 
+pictureName | geschichte_12_1_kamerad_Max_Rothe.jpg
+effectMoney | 
+effectJob | 
+effectStatus | 
+effectTrigger | 

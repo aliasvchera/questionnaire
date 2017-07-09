@@ -1,0 +1,18 @@
+conditionTrigger | SS
+conditiondDate | 
+conditionPeriod | 
+conditionDeath | death-
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | activist+
+usedMax | 1
+captionText | После 1933 года
+mainText | Вскоре после прихода НСДАП к власти Вы вступили в СС, где служили в частях охраны концентрационных лагерей для политических заключённых. За усердную службу повышение следовало за повышением.@@@После начала войны назначили комендантом одного из лагерей в Генерал-губернаторстве, где Вы беспрекословно и старательно выполняли указания высшего руководства, повторяя при случае, что «Прежде всего, мы должны слушать фюрера, а не философствовать».@@@После поражения Германии скрывались под чужим именем пока не были переправлены с помощью сети ODESSA в Аргентину, где организовали фирму по добыче и торговле древесиной.
+quotationAuthor | 
+pictureName | Bundesarchiv_Bild_183-78612-0010,_KZ_Sachsenhausen,_SS-Unterfuehrer_beim_Zaehlappell.jpg
+effectMoney | 
+effectJob | 
+effectStatus | 
+effectTrigger | The-End

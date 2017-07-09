@@ -1,0 +1,18 @@
+conditionTrigger | Spartakus-1919
+conditiondDate | 
+conditionPeriod | 
+conditionDeath | death-
+conditionOccasion | 
+conditionStatus | Spartakus-1919+
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | Восстание потерпело поражение и Вы, спрятав оружие, поспешили выбраться из Берлина.
+quotationAuthor | 
+pictureName | Communist 'Spartakist' machinegun unit in Berlin during the violent Strassenkampf.jpg
+effectMoney | 
+effectJob | 
+effectStatus | 
+effectTrigger | 

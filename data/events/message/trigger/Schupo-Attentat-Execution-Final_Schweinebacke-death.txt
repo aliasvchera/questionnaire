@@ -1,0 +1,18 @@
+conditionTrigger | Schupo-Attentat-Execution-Final
+conditiondDate | 
+conditionPeriod | 
+conditionDeath | death+
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | В ходе последовавшей перестрелки с полицией Вы пытались скрыться, но получили две пули в спину и скончались через пару часов.@@@Вас хоронили с торжественными почестями, сам Эрнст Тельман приехал сказать надгробную речь о «невинной жертве террора социал-фашистов».
+quotationAuthor | 
+pictureName | image-885664-galleryV9-oybu.jpg
+effectMoney | 
+effectJob | 
+effectStatus | 
+effectTrigger | The-End

@@ -1,0 +1,18 @@
+conditionTrigger | Arrested-Sozi
+conditiondDate | 
+conditionPeriod | 
+conditionDeath | death+
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | После ареста Вас сильно избили в тюрьме. Следующие 10 лет провели в концентрационных лагерях Нойберг, Куберг, Флоссенбюрг и Дахау. Вы оставались живы в основном из-за некоторого снисхождения, которое нацисты проявляли к Вам как к фронтовику с наградами и боевыми ранениями.@@@В 1943 году умерли от плеврита в концлагере Дахау.
+quotationAuthor | 
+pictureName | 758f869bca_Der verhaftete Oberbuergermeister Ernst Boehme wurde von SA- und SS-Hilfspolizei durch die Stadt gefuehrt.jpg
+effectMoney | 
+effectJob | 
+effectStatus | 
+effectTrigger | The-End

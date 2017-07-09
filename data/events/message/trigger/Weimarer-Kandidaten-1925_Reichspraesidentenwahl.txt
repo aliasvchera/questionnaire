@@ -1,0 +1,18 @@
+conditionTrigger | Weimarer-Kandidaten-1925
+conditiondDate | 
+conditionPeriod | 
+conditionDeath | 
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | «Веймарская коалиция» (СДПГ, НДП и Центр) не смогли договориться о выдвижении единого кандидата, поэтому каждая из партий шла на выборы со своим кандидатом.@@@Социал-демократическая партия Германии (СДПГ) первоначально сделала ставку на председателя Рейхстага Пауля Лёбе. Однако, после его отказа баллотироваться в президенты, социал-демократам пришлось искать нового кандидата. В результате им стал Отто Браун, который до января 1925 года занимал пост министра-президента Пруссии. @@@Немецкая демократическая партия (НДП) объявила о поддержке кандидатуры государственного президента Бадена Вилли Гельпаха. @@@Кандидатом от католической партии Центра стал Вильгельм Маркс, занимавший пост канцлера в 1923-1924 годах.
+quotationAuthor | 
+pictureName | Professor Hellpach, Praesidentschaftskandidat der Demokraten, sprach am 26. Maerz unter Anwesenheit Zehntausender im Sportpalast in Berlin.jpg
+effectMoney | 
+effectJob | 
+effectStatus | 
+effectTrigger | BVP-KPD-Voelkisch-Kandidaten-1925

@@ -1,0 +1,18 @@
+conditionTrigger | RB-Appeal-in-newspapers
+conditiondDate | 
+conditionPeriod | 
+conditionDeath | 
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | Рейхсбаннер
+mainText | В марте 1924 года газеты по всей Германии напечатали призыв новосозданного «Рейхсбаннера»: «Ветераны и боевые товарищи, кто ушёл на войну республиканцем или кто вернулся с неё таким, мужчины, способные держать оружие, и все, кто готов поддерживать наши цели: Вступайте в «Рейхсбаннер» сейчас же!» Серьёзный набор в его ряды начался после всеобщих выборов в мае 1924 года. На протяжении летних месяцев в городах проводились конференции, на которых были созданы местные подразделения: в Нюрнберге 29 июня, в Дюссельдорфе 15 августа, в Констанце 31 августа и в Бонне в сентябре. Часть существовавших доселе прореспубликанских объединений самораспускались, а потом вливались полностью в «Рейхсбаннер». Успехами роста численности организации были удивлены даже сами руководители союза.
+quotationAuthor | 
+pictureName | 1440px-Illustrierte_Reichsbanner_Zeitung_title_page_oath_of_loyalty_IMG.JPG
+effectMoney | 
+effectJob | 
+effectStatus | 
+effectTrigger | RB-Republic-defender

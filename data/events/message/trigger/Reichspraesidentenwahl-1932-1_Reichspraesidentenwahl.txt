@@ -1,0 +1,18 @@
+conditionTrigger | Reichspraesidentenwahl-1932-1
+conditiondDate | 
+conditionPeriod | 
+conditionDeath | 
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | –езультаты первого тура выборов
+mainText | ѕауль фон √инденбург (независимый) Ц 49,5%@@@јдольф √итлер (Ќ—ƒјѕ) Ц 30,2%@@@Ёрнст “ельман ( ѕ√) Ц 13,2%@@@“еодор ƒюстерберг (Ђ—тальной шлемї) Ц 6,8%@@@јдольф √устав ¬интер (независимый) Ц 0,3%@@@Ёрих Ћюдендорф (фЄлькиш) Ц 1,0%@@@явка избирателей составила 86%.@@@Ќи один из кандидатов не набрал абсолютного большинства голосов, поэтому в первом туре новый рейхспрезидент избран не был.
+quotationAuthor | 
+pictureName | 
+effectMoney | 
+effectJob | 
+effectStatus | 
+effectTrigger | 

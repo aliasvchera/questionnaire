@@ -1,0 +1,18 @@
+conditionTrigger | Beat-Kozi-RB-Start
+conditiondDate | 
+conditionPeriod | 
+conditionDeath | 
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | Пятничным вечером вы с Вреде подкараулили «коци» возле пивной, куда тот, по сведениям Фрерксена, регулярно захаживал после работы. Вот «объект для воспитания» нетвёрдой походкой вышел из дверей кабака. Вы переглянулись с напарником и с двух сторон стали медленно приближаться к «коци»…
+quotationAuthor | 
+pictureName | tiedemann-ebraergang14.jpg
+effectMoney | 
+effectJob | 
+effectStatus | 
+effectTrigger | Beat-Kozi-RB-Finish

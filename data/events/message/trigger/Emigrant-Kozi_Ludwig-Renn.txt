@@ -1,0 +1,18 @@
+conditionTrigger | Emigrant-Kozi
+conditiondDate | 
+conditionPeriod | 
+conditionDeath | death-
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | В ходе последовавших за поджогом Рейхстага преследований коммунистов Вы были арестованы и приговорены в январе 1934 года к 30 месяцам заключения. После освобождения в августе 1935 года выехали в Испанию, где вступили в Интербригады. После поражения республиканцев Вы отправились в Мексику, где состояли в движении «Свободная Германия».@@@В 1947 году вернулись в Германию, поселившись в Дрездене в советской оккупационной зоне. После создания ГДР принимали активное участие во внутреннеполитической и общественной жизни молодой страны.
+quotationAuthor | 
+pictureName | Bundesarchiv_Bild_102-02920A,_Berlin,_Verhaftung_von_Kommunisten_durch_SA.jpg
+effectMoney | 
+effectJob | 
+effectStatus | 
+effectTrigger | The-End

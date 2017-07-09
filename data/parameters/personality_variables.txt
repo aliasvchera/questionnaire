@@ -1,4 +1,0 @@
-name | Вальтер
-surname | фон Гольсенау
-yearOfBirth | 1895
-portrait | 043.jpg

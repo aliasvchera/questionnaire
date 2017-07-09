@@ -1,0 +1,18 @@
+conditionTrigger | Attack-SA-HQ
+conditiondDate | 
+conditionPeriod | 
+conditionDeath | 
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | RFB+ RB+ STA+
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | Ваш отряд вихрем пронёсся по нацистскому кабаку, переворачивая столы и разбивая стулья о головы «наци». Лишь немногим из них посчастливилось спастись бегством от ваших кулаков.
+quotationAuthor | 
+pictureName | Versorgung von verletzten SA-Leuten durch eigene Sanitaeter nach einer Saalschlacht (1930).jpg
+effectMoney | 
+effectJob | 
+effectStatus | 
+effectTrigger | 
