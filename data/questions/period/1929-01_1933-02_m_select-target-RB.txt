@@ -1,0 +1,26 @@
+conditionTrigger | 
+conditiondDate | 
+conditionPeriod | 1929-01#1933-02#m
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | RB+
+conditionPolitical | 
+conditionActivism | 
+usedMax | 2
+captionText | 
+mainText | Ваши боевые товарищи по "Рейхсбаннеру" хотят совершить налёт на местную штаб-квартиру боевых отрядов политических противников. Как считаете, по кому нужно нанести удар?
+pictureName | Hinweg_Damit.jpg
+answerText | Разгромим притон "Рот-Фронта", проучим коци!#Давайте рассчитаемся за все нападки "чёрно-бело-красных" реакционеров,  разнесём в дребезги логово "Стального шлема"!#Надо поставить на место гитлеровских головорезов, их "блиндаж" как раз в соседнем квартале.#Вы о чём? Никаких драк! Мы должны соблюдать закон и порядок!#
+answerConditionPolitical | 
+answerConditionKampfbund | 
+effectPolitical | socialist-2#conservative-2#nationalist-2#republican+1#
+effectKampfbund | RB+1#RB+1#RB+1##
+effectMortality | 0#0#0##
+effectCustody | 
+effectCustodyTerm | 
+effectKampfbundJoinOrLeft | 
+effectMoney | 
+effectJob | 
+effectOccasion | 
+effectStatus | 
+effectTrigger | Attack-RFB-HQ#Attack-STA-HQ#Attack-SA-HQ##

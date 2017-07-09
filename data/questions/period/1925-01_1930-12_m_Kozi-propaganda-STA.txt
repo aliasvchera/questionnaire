@@ -1,0 +1,26 @@
+conditionTrigger | 
+conditiondDate | 
+conditionPeriod | 1925-01#1930-12#m
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | STA+
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | Проходя по улице с товарищами-штальхельмерами, Вы увидели на стене коммунистическую карикатуру на «Стальной шлем», высмеивающую его «юнкерско-бюргерско-капиталистическое» руководство и спекулирующую на теме тяжёлого положения инвалидов войны.
+pictureName | kpd_propaganda.jpg
+answerText | Да, мало в своё время этих большевиков постреляли, до сих пор, собаки, смеют оскорблять немецких патриотов и фронтовиков!#Много чести этим красным рисовальщикам, чтоб их мазня меня задевала!#А, подобная пропаганда идёт из всех лагерей, я на неё уже не обращаю внимания.#Вот гады! А ведь всё-таки остроумно! Знают, куда бить!#
+answerConditionPolitical | 
+answerConditionKampfbund | 
+effectPolitical | conservative+2 nationalist+1#conservative+1##socialist+1#
+effectKampfbund | 
+effectMortality | 
+effectCustody | 
+effectCustodyTerm | 
+effectKampfbundJoinOrLeft | 
+effectMoney | 
+effectJob | 
+effectOccasion | 
+effectStatus | 
+effectTrigger | 

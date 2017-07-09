@@ -1,0 +1,26 @@
+conditionTrigger | 
+conditiondDate | 1932-04
+conditionPeriod | 
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 10 апреля 1932 года
+mainText | За кого Вы отдали свой голос во втором туре выборов рейхспрезидента?
+pictureName | d00c5aae2Dd8c42D42cb2D813c2D24d6e62b7dfapap2D09.jpg
+answerText | Пауль фон Гинденбург (независимый)#Адольф Гитлер (НСДАП)#Эрнст Тельман (КПГ)#Не вижу смысла во всех этих выборах, не голосовал.#
+answerConditionPolitical | 
+answerConditionKampfbund | 
+effectPolitical | republican+1 conservative+1#nationalist+2#socialist+2##
+effectKampfbund | 
+effectMortality | 
+effectCustody | 
+effectCustodyTerm | 
+effectKampfbundJoinOrLeft | 
+effectMoney | 
+effectJob | 
+effectOccasion | 
+effectStatus | 
+effectTrigger | Reichspraesidentenwahl-1932-2#Reichspraesidentenwahl-1932-2#Reichspraesidentenwahl-1932-2#Reichspraesidentenwahl-1932-2#

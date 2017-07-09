@@ -1,0 +1,26 @@
+conditionTrigger | 
+conditiondDate | 
+conditionPeriod | 1928-06#1932-07#m
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | RB+
+conditionPolitical | 
+conditionActivism | activist+
+usedMax | 1
+captionText | 
+mainText | Во время очередного собрания в трактире, излюбленном месте Вашего камерадшафта, к Вам подсел товарищ Фрерксен, лейтенант охранной полиции «шупо». Он завёл пространный разговор про тяготы службы, борьбу с врагами республики и радикалами, ходил вокруг да около пока не перешёл к своей истинной цели:@@@«Есть в моём районе один коммунист. Сволочь редкая. Постоянно организует мальчишек обзывать нас «убийцами рабочих» – с детьми я не воюю, а против него по закону ничего нет.@@@А недавно школьников, детей «коци», донимать моего малолетнего сына, называя его отца, то бишь меня, «кровавой собакой социал-фашистов».@@@В общем, моему терпению пришёл конец. Я, конечно, всегда уважал закон, но с этими ублюдками нужно разбираться их методами. Нужно его хорошенько проучить. Поможешь?»
+pictureName | geschichte_12_1_kamerad_Max_Rothe.jpg
+answerText | Товарищ, и это говорит офицер полиции… Это же незаконно!#А я потом за это не сяду?#Конечно, мы, «рейхсбаннерманны», должны друг другу помогать.#Ненавижу большевиков, с радостью одного из них заставлю кровью харкать!#
+answerConditionPolitical | 
+answerConditionKampfbund | 
+effectPolitical | ###socialist-2#
+effectKampfbund | RB-1##RB+2#RB+2#
+effectMortality | ##0,2#0,2#
+effectCustody | 
+effectCustodyTerm | 
+effectKampfbundJoinOrLeft | 
+effectMoney | 
+effectJob | 
+effectOccasion | 
+effectStatus | 
+effectTrigger | Beat-Kozi-RB-Refusal#Beat-Kozi-RB-Problems-with-law#Beat-Kozi-RB-Assent#Beat-Kozi-RB-Assent#

@@ -1,0 +1,26 @@
+conditionTrigger | 
+conditiondDate | 1933-03
+conditionPeriod | 
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | STA+
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | Маршируя в колонне «Стального шлема» на параде в ходе торжественных мероприятий Дня Потсдама, Вы размышляли о коалиции с национал-социалистами и правительстве «национальной концентрации» с Гитлером во главе:
+pictureName | fred12.jpg
+answerText | Национал-социалисты вольют свежую кровь в национальное движение, наконец-то мы объединили все патриотические силы для единства нации и работы на благо Германии!#Думаю, господин фон Папен и прочие министры из НННП смогут контролировать и усмирить пыл национал-социалистов. Главное для национальной Германии – это стабильность и порядок.#Мы столько лет говорили о «правом большевизме» и вот теперь сами привели нацистов к власти! Это огромная ошибка, о которой мы ещё пожалеем.#Ах, какой всё же сегодня замечательный парад!#
+answerConditionPolitical | 
+answerConditionKampfbund | 
+effectPolitical | conservative+1 nationalist+1#conservative+2#conservative+2 nationalist-1##
+effectKampfbund | 
+effectMortality | #0,3#0,7##
+effectCustody | 
+effectCustodyTerm | 
+effectKampfbundJoinOrLeft | 
+effectMoney | 
+effectJob | 
+effectOccasion | 
+effectStatus | 
+effectTrigger | Loyal-philistine#Disloyal-Stahlhelmer#Disloyal-Stahlhelmer#Neutral-philistine#

@@ -1,0 +1,26 @@
+conditionTrigger | 
+conditiondDate | 1919-01
+conditionPeriod | 
+conditionOccasion | 
+conditionStatus | Spartakus-1919- Freikorps-
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | В Позене восстали поляки, в Берлине восставшие солдаты, матросы и рабочие собираются осуществить «Немецкий Октябрь», останетесь ли Вы в стороне в это время или примете участие в борьбе?
+pictureName | Spartacus-poster-1.jpg
+answerText | Я вступаю в добровольческие отряды, не дам стране погрузиться в хаос.#Нужно довести революцию до конца! Я присоединюсь к революционным солдатам в Берлине!#Не хочу принимать в этой бойне участие.##
+answerConditionPolitical | 
+answerConditionKampfbund | 
+effectPolitical | conservative+2#socialist+2###
+effectKampfbund | STA+2 SA+2#RFB+2###
+effectMortality | #0,2###
+effectCustody | 
+effectCustodyTerm | 
+effectKampfbundJoinOrLeft | 
+effectMoney | 
+effectJob | 
+effectOccasion | 
+effectStatus | Freikorps+#Spartakus-1919+###
+effectTrigger | #Spartakus-1919###

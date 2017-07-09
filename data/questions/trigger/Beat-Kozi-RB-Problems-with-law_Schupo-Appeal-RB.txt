@@ -1,0 +1,26 @@
+conditionTrigger | Beat-Kozi-RB-Problems-with-law
+conditiondDate | 
+conditionPeriod | 
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | Товарищ Фрерксен таинственно улыбнулся: «Риск есть всегда. Но, как ты понимаешь, такие дела расследует полиция… Так что, поможешь?»
+pictureName | geschichte_12_1_kamerad_Max_Rothe.jpg
+answerText | Да, можешь на меня положиться.#Нет, всё-таки как-то без меня. Извини.###
+answerConditionPolitical | 
+answerConditionKampfbund | 
+effectPolitical | 
+effectKampfbund | RB+2#RB-1###
+effectMortality | 0,2####
+effectCustody | 
+effectCustodyTerm | 
+effectKampfbundJoinOrLeft | 
+effectMoney | 
+effectJob | 
+effectOccasion | 
+effectStatus | 
+effectTrigger | Beat-Kozi-RB-Assent#Beat-Kozi-RB-Refusal###

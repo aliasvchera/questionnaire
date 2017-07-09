@@ -1,0 +1,26 @@
+conditionTrigger | Schupo-Attentat-RFB-Trial
+conditiondDate | 
+conditionPeriod | 
+conditionOccasion | 
+conditionStatus | Schupo-Attentat-Consent- Schupo-Attentat-Refusal-
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | Это был последний свидетель и поэтому товарищ Ханс потребовал окончательного ответа: «Итак, ты слышал всё. Твой ответ?»
+pictureName | Hermann Hagendorf.jpg
+answerText | Да, я пойду с вами.#Это убийство. Чем мы тогда лучше «наци»?#Забудем этот разговор. Я ничего не слышал и не знаю.##
+answerConditionPolitical | 
+answerConditionKampfbund | 
+effectPolitical | #socialist+1###
+effectKampfbund | RFB+3#RFB-1#RFB-2##
+effectMortality | 0,3####
+effectCustody | 
+effectCustodyTerm | 
+effectKampfbundJoinOrLeft | 
+effectMoney | 
+effectJob | 
+effectOccasion | 
+effectStatus | Schupo-Attentat-Consent+#Schupo-Attentat-Refusal+#Schupo-Attentat-Refusal+##
+effectTrigger | Schupo-Attentat-Consent#Schupo-Attentat-Refusal#Schupo-Attentat-Refusal##

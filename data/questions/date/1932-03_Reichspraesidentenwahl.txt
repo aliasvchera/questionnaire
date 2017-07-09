@@ -1,0 +1,26 @@
+conditionTrigger | 
+conditiondDate | 1932-03
+conditionPeriod | 
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 13 марта 1932 года
+mainText | За кого из кандидатов Вы проголосуете в первом туре выборов рейхспрезидента?
+pictureName | Reichspraesidentenwahl_1932_-_1._Wahlgang.jpg
+answerText | Теодор Дюстерберг («Стальной шлем»)#Пауль фон Гинденбург (независимый)#Адольф Гитлер (НСДАП)#Эрнст Тельман (КПГ)#Адольф Густав Винтер (независимый)
+answerConditionPolitical | 
+answerConditionKampfbund | 
+effectPolitical | conservative+2 nationalist+1#republican+2 conservative+1#nationalist+2#socialist+2#conservative+2
+effectKampfbund | 
+effectMortality | 
+effectCustody | 
+effectCustodyTerm | 
+effectKampfbundJoinOrLeft | 
+effectMoney | 
+effectJob | 
+effectOccasion | 
+effectStatus | 
+effectTrigger | Reichspraesidentenwahl-1932-1#Reichspraesidentenwahl-1932-1#Reichspraesidentenwahl-1932-1#Reichspraesidentenwahl-1932-1#Reichspraesidentenwahl-1932-1

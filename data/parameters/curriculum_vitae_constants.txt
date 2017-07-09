@@ -1,0 +1,23 @@
+STATUS_NAME | TEXT_FOR_CV
+profession_Bauer | крестьянин
+profession_Arbeiter | рабочий
+profession_Lehrer | учитель
+profession_Angestellte | служащий
+profession_Student-Jurist | студент
+profession_Student-Journalist | студент
+profession_Student-Arzt | студент
+profession_Student-Ingenieur | студент
+profession_Student-Finanzier | студент
+profession_Jurist | юрист
+profession_Journalist | журналист
+profession_Arzt | врач
+profession_Ingenieur | инженер
+profession_Finanzier | бухгалтер
+WWI | участник мировой войны
+Freikorps | боец фрайкоров
+Spartakus-1919 | участник восстания «Спартака»
+Kapp-Luettwitz-1920 | находился в рядах путчистов Каппа и Лютвица
+Ruhr-Rote-Armee-1920 | был среди повстанцев Красной армии Рура
+O.S.-1921 | воевал против польских инсургентов в Верхней Силезии в 1921 году
+Ruhr-1923 | по имеющимся сведениям, совершал диверсии против оккупантов в Руре в 1923 году
+Schufo | состоял в «шуфо»

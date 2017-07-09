@@ -1,0 +1,26 @@
+conditionTrigger | 
+conditiondDate | 
+conditionPeriod | 1927-03#1931-12#m
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | STA+
+conditionPolitical | 
+conditionActivism | activist+
+usedMax | 1
+captionText | 
+mainText | Одним вечером, после традиционного еженедельного собрания, цугфюрер товарищ Лёве отозвал Вас в сторону поговорить: «Товарищ, на Вас можно положиться? … Есть очень деликатное дело: у одного нашего товарища – производителя сельтерской воды постоянные проблемы с одним большевиком, который вечно подначивает рабочих бастовать и устраивать стачки. Надо его хорошенько проучить, ничего ему не говорите – он всё сам поймёт. С этим марксистским отребьем иначе нельзя, ему можно только  вбить в голову эту «науку» кулаками и дубинкой. Возьмётесь?»
+pictureName | stahlhelmloewe_Kamerad Loewe.jpg
+answerText | Товарищ… это же незаконно.#Я готов. Если что, проблем с полицией не будет?#Вообще-то я в «Шта» ради сохранения военной силы Германии, а не для драк со всякой швалью.#Так, выходит, «красные» правы, когда называют нас наёмниками капиталистов и фабрикантов?#
+answerConditionPolitical | 
+answerConditionKampfbund | 
+effectPolitical | conservative+1###socialist+2#
+effectKampfbund | #STA+2#STA+1##
+effectMortality | #0,25###
+effectCustody | 
+effectCustodyTerm | 
+effectKampfbundJoinOrLeft | 
+effectMoney | 
+effectJob | 
+effectOccasion | 
+effectStatus | 
+effectTrigger | Beat-Kozi-Refusal#Beat-Kozi-Assent#Beat-Kozi-Refusal#Beat-Kozi-Klassenkampf#

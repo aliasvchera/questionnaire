@@ -1,0 +1,26 @@
+conditionTrigger | 
+conditiondDate | 1933-03
+conditionPeriod | 
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | RFB+
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | Услышав первые новости о пожаре в Рейхстаге, Вы поняли, что это не случайность, и сейчас начнётся террор. Нужно немедля принимать какое-то решение.
+pictureName | Lubbe-6-DW-Kultur-Berlin_Reichstagsbrand.jpg
+answerText | Я уже порвал с коммунистами, меня это не касается.#Перехожу на нелегальное положение и ухожу в подполье.#Нужно немедленно уезжать из страны!#А я-то при чём, я ж ничего противозаконного не делал?#Я стал по-другому смотреть на национал-социалистическое движение. Национальная революция – это путь к возрождению Германии!
+answerConditionPolitical | ####nationalist+
+answerConditionKampfbund | 
+effectPolitical | 
+effectKampfbund | RFB-2####
+effectMortality | 0,5#0,5#0,5#0,5#0,5
+effectCustody | 
+effectCustodyTerm | 
+effectKampfbundJoinOrLeft | RFB-####
+effectMoney | 
+effectJob | 
+effectOccasion | 
+effectStatus | 
+effectTrigger | Neutral-philistine#Clandestine-Kozi#Emigrant-Kozi#Disloyal-philistine#Loyal-philistine

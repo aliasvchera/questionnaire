@@ -1,0 +1,26 @@
+conditionTrigger | Schupo-Attentat-Zeugenaussage
+conditiondDate | 
+conditionPeriod | 
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 3
+captionText | 
+mainText | Товарищ Ханс обернулся к Вам: «Тебе достаточно услышанного? Ты принял решение?»
+pictureName | Hermann Hagendorf.jpg
+answerText | Товарищ, но ведь партия отвергает индивидуальный террор?#Да, я пойду с вами.#Но этого всё равно мало чтобы вот так взять и убить человека.#Забудем этот разговор. Я ничего не слышал и не знаю.#Я послушаю следующего свидетеля.
+answerConditionPolitical | 
+answerConditionKampfbund | 
+effectPolitical | 
+effectKampfbund | #RFB+3##RFB-2#
+effectMortality | #0,3###
+effectCustody | 
+effectCustodyTerm | 
+effectKampfbundJoinOrLeft | 
+effectMoney | 
+effectJob | 
+effectOccasion | 
+effectStatus | #Schupo-Attentat-Consent+##Schupo-Attentat-Refusal+#
+effectTrigger | Schupo-Attentat-Individueller-Terror#Schupo-Attentat-Consent#Schupo-Attentat-Zeugenaussage#Schupo-Attentat-Refusal#Schupo-Attentat-Zeugenaussage

@@ -1,0 +1,26 @@
+conditionTrigger | 
+conditiondDate | 1921-05
+conditionPeriod | 
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | 4 мая 1921 года в Верхней Силезии вспыхнуло Третье польское восстание. Прочитав об этом в экстренном выпуске газеты, Вы сказали себе:
+pictureName | wr_upsilesia.jpg
+answerText | Поспешу домой собирать походный рюкзак. Думаю, на шестичасовой поезд в Бреслау ещё можно успеть.#Это возмутительно! Антанта сама назначила этот плебисцит, а теперь игнорирует его результаты, развязав полякам руки! Наше правительство должно отреагировать самым решительным образом!#Капиталисты пытаются стравить народы, отвлекая их от классовой борьбы. Конечно, для них лучше, чтоб немецкие шахтёры воевали с польскими шахтёрами, чем с нашими толстосумами!#Наши ребята из фрайкоров уже подавили два польских восстания, разберутся и на этот раз!#Верхняя Силезия? Тут бы с голоду не помереть…
+answerConditionPolitical | 
+answerConditionKampfbund | 
+effectPolitical | nationalist+2#republican+1#socialist+2#conservative+1#
+effectKampfbund | STA+3 SA+3####
+effectMortality | 0,2####
+effectCustody | 
+effectCustodyTerm | 
+effectKampfbundJoinOrLeft | 
+effectMoney | 
+effectJob | 
+effectOccasion | 
+effectStatus | O.S.-1921+####
+effectTrigger | O.S.-1921####

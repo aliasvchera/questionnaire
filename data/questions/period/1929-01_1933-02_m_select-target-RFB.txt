@@ -1,0 +1,26 @@
+conditionTrigger | 
+conditiondDate | 
+conditionPeriod | 1929-01#1933-02#m
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | RFB+
+conditionPolitical | 
+conditionActivism | 
+usedMax | 2
+captionText | 
+mainText | Вашим боевым товарищам – "красным фронтовикам" недостаточно одних лишь маршей и охраны митингов, они хотят нанести удар политическим противникам и потому теперь обсуждают, чьё сборище разгромить. Вы отстаиваете своё мнение:
+pictureName | kpd_propaganda1.PNG
+answerText | Давайте отмутузим этих социал-фашистов из "Рейхсбаннера"!#Проучим старорежимных солдафонов – штальхельмеров!#Помните наш лозунг? – "Убивайте фашистов, где бы вы их не встретили!" Разнесём в щепки нацистское логово!#Никаких акций без приказа высшего руководства!#
+answerConditionPolitical | 
+answerConditionKampfbund | 
+effectPolitical | republican-2#conservative-2#nationalist-2##
+effectKampfbund | RFB+1#RFB+1#RFB+1##
+effectMortality | 0#0#0##
+effectCustody | 
+effectCustodyTerm | 
+effectKampfbundJoinOrLeft | 
+effectMoney | 
+effectJob | 
+effectOccasion | 
+effectStatus | 
+effectTrigger | Attack-RB-HQ#Attack-STA-HQ#Attack-SA-HQ##

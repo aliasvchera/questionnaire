@@ -1,0 +1,26 @@
+conditionTrigger | 
+conditiondDate | 
+conditionPeriod | 1924-08#1928-12#m
+conditionOccasion | 
+conditionStatus | RB-story+
+conditionKampfbund | RB-
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | В свежей газете Вы прочитали призыв «Рейхсбаннера» – новосозданного прореспубликанского ветеранского союза: «Ветераны и боевые товарищи, кто ушёл на войну республиканцем или кто вернулся с неё таким, мужчины, способные держать оружие, и все, кто готов поддерживать наши цели: вступайте в «Рейхсбаннер» сейчас же!»
+pictureName | Mitteilung des Bundesvorstandes zur Gruendung des Reichsbanners 15. April 1924.jpg
+answerText | Республиканский ветеранский союз? Наконец-то! Вступаю в его ряды!#Германию и так лихорадит от путчей всех этих боевых союзов, зачем теперь и республиканцы создают ещё один?#Это, я так понимаю, нечто вроде вспомогательной полиции, чтобы помогать буржуазному правительству подавлять рабочие восстания? Ну-ну…#Приверженцы свинской республики под "чёрно-красно-дерьмовым" флагом пытаются тягаться с патриотическими боевыми союзами? Это смешно!#А… опять политика… Почитаем лучше объявления о распродаже одежды.
+answerConditionPolitical | 
+answerConditionKampfbund | 
+effectPolitical | republican+3#republican+1#socialist+1#conservative+2 nationalist+1# 
+effectKampfbund | RB+1####
+effectMortality | 
+effectCustody | 
+effectCustodyTerm | 
+effectKampfbundJoinOrLeft | RB+####
+effectMoney | 
+effectJob | 
+effectOccasion | 
+effectStatus | 
+effectTrigger | 

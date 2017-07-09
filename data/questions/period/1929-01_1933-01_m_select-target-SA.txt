@@ -1,0 +1,26 @@
+conditionTrigger | 
+conditiondDate | 
+conditionPeriod | 1929-01#1933-01#m
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | SA+
+conditionPolitical | 
+conditionActivism | 
+usedMax | 2
+captionText | 
+mainText | Среди ваших товарищей-штурмовиков идёт спор о том, кого из политических врагов следует "навестить" сегодня вечером. Вы настаиваете на своём:
+pictureName | wille.jpg
+answerText | Сколько мы будем терпеть большевистское отребье, этих еврейских прислужников? Нужно разнести в пух и прах их змеиное логово!#"Рейхсбананы", защитнички позорной еврейской республики, как раз собрались в своём любимом кабаке, давайте устроим им сюрприз!#Господа-реакционеры не хотят и думать ни о какой национальной революции, им бы лишь маршировать на парадах под старыми флагами. Нужно немного растормошить этих самодовольных дураков – штальхельмеров!#Руководство партии и лично сам фюрер приказали придерживаться принципов легальности и соблюдения законов! Мы должны выполнять приказ, даже если он нам и не по душе.#
+answerConditionPolitical | 
+answerConditionKampfbund | 
+effectPolitical | socialist-2#republican-2#conservative-2##
+effectKampfbund | SA+1#SA+1#SA+1##
+effectMortality | 0#0#0##
+effectCustody | 
+effectCustodyTerm | 
+effectKampfbundJoinOrLeft | 
+effectMoney | 
+effectJob | 
+effectOccasion | 
+effectStatus | 
+effectTrigger | Attack-RFB-HQ#Attack-RB-HQ#Attack-STA-HQ##

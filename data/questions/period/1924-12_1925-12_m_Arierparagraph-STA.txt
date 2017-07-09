@@ -1,0 +1,26 @@
+conditionTrigger | 
+conditiondDate | 
+conditionPeriod | 1924-12#1925-12#m
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | STA+
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | В 1924 году после долгих дебатов в "Стальном шлеме" был принят так называемый "арийский параграф", который исключал членство в союзе евреев. Как Вы относитесь к этому неоднозначному нововведению?
+pictureName | d2942779_Flugblatt des Reichsbundes juedischer Frontsoldaten_1920.jpg
+answerText | Я не знаю ни одного ветерана-еврея, говорят, они всю войну просидели в тылу.#Всё правильно! Это союз НЕМЕЦКИХ солдат-фронтовиков, что здесь делать евреям?#Не совсем, конечно, красиво это всё выглядит, перед евреями-фронтовиками всё-таки неудобно. Но это решение руководства союза, мы должны ему подчиниться.#У меня в роте был солдат-еврей, он хорошо сражался, как можно исключать его и ему подобных из союза? Значит, и мне здесь не место! Я покидаю союз!#
+answerConditionPolitical | 
+answerConditionKampfbund | 
+effectPolitical | conservative+1 nationalist+2#conservative+2 nationalist+3#conservative+2 nationalist-1#conservative-2 nationalist-3#
+effectKampfbund | STA+2 SA+2#STA+2 SA+3#STA+1#STA-2 SA-3#
+effectMortality | 
+effectCustody | 
+effectCustodyTerm | 
+effectKampfbundJoinOrLeft | ###STA-#
+effectMoney | 
+effectJob | 
+effectOccasion | 
+effectStatus | 
+effectTrigger | 

@@ -1,0 +1,26 @@
+conditionTrigger | 
+conditiondDate | 
+conditionPeriod | 1924-06#1928-12#m
+conditionOccasion | 
+conditionStatus | RFB-story+
+conditionKampfbund | RFB-
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | Идя по улице, Вы неожиданно наткнулись на марш коммунистов и, остановившись поглазеть на шествие, присоединились к толпе наблюдателей. Коммунистический активист раздавал листовки, одну из них вручил Вам. Там было написано: "Товарищи! Вступайте в Союз красных фронтовиков! Выступим вместе против империализма, милитаризма и эксплуатации!"
+pictureName | RFB-Trupp bei einer der fast taeglichen Demonstrationen.jpg
+answerText | Да, митингами и политическими дебатами мы не победим капиталистов и не построим социализм в Германии! Нужно готовиться к решительной борьбе! Я тоже вступлю в "Рот-Фронт"!#Коммунистам мало кровавых событий 1919-1923 годов? Только лишь ситуация в Германии немного успокоилась, так они снова хотят гражданской войны и хаоса!#Почему власти потакают большевикам? Почему их партия не запрещена? А теперь они уже открыто формируют отряды для вооружённого мятежа!#Германия ограблена и унижена врагами, нам нужно объединить все силы, чтобы в трудной борьбе отвоевать свою свободу, а тут большевики вносят раскол в нацию, стравливают одну часть народа с другой… Призывы к гражданской войне – это предательство интересов немецкого народа!#
+answerConditionPolitical | 
+answerConditionKampfbund | 
+effectPolitical | socialist+2#republican+1#republican+1 conservative+1#nationalist+1#
+effectKampfbund | 
+effectMortality | 
+effectCustody | 
+effectCustodyTerm | 
+effectKampfbundJoinOrLeft | RFB+####
+effectMoney | 
+effectJob | 
+effectOccasion | 
+effectStatus | 
+effectTrigger | 

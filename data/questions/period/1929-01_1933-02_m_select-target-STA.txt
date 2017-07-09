@@ -1,0 +1,26 @@
+conditionTrigger | 
+conditiondDate | 
+conditionPeriod | 1929-01#1933-02#m
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | STA+
+conditionPolitical | 
+conditionActivism | 
+usedMax | 2
+captionText | 
+mainText | Собравшись со своими товарищами-штальхельмерами, Вы спорите по поводу планируемого налёта на место сбора (?) политических противников:
+pictureName | Ludwig Hohlwein Und Du 1929.jpg
+answerText | Нужно вычистить наш город от большевистской заразы, уничтожим их притон!#Меня тошнит от подпевал этой свинской республики под чёрно-красно-дерьмовым флагом, нужно нанести визит в их бордель!#Эти «правые большевики» из СА зарвались! Нужно хорошенько их проучить!#"Стальной шлем" никогда не был сборищем смутьянов и анархистов. Залогом возрождения мощи и величия Германии должны стать закон и порядок, а не уличные побоища!#
+answerConditionPolitical | 
+answerConditionKampfbund | 
+effectPolitical | socialist-2#republican-2#nationalist-2##
+effectKampfbund | STA+1#STA+1#STA+1##
+effectMortality | 0#0#0##
+effectCustody | 
+effectCustodyTerm | 
+effectKampfbundJoinOrLeft | 
+effectMoney | 
+effectJob | 
+effectOccasion | 
+effectStatus | 
+effectTrigger | Attack-RFB-HQ#Attack-RB-HQ#Attack-SA-HQ##

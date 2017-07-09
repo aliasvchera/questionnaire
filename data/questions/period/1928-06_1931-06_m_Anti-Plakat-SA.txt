@@ -1,0 +1,26 @@
+conditionTrigger | 
+conditiondDate | 
+conditionPeriod | 1928-06#1931-06#m
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | SA+
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | В Вашем отряде снова поднялся глупой ропот из-за «политики легальности» и «армии расклейщиков плакатов» – роли, уготованной для СА. Понятное дело, Вы не можете остаться в стороне и высказываетесь по этому поводу так:
+pictureName | Bundesarchiv_Bild_146-1978-096-03,_Mecklenburg,_Wahlpropaganda_der_NSDAP.jpg
+answerText | Фюрер постановил так – значит, именно такая тактика нужна сейчас для будущей победы национальной революции.#По-моему, в Мюнхене у нас завелись свои «коричневые бонзы». Им уже не нужна борьба, они живут сыто и небедно – их всё и так устраивает.#Ха, вы что, разве не понимаете, что вся эта «легальность» – это для замыливания глаз обывателям и прислужникам еврейской республики? Кто мешает нам скрыто вести наступление на улицах немецких городов?#А, люди, чего вас вообще вся эта партийная политика так беспокоит? Посмотрите, какая вокруг безработица и безденежье, а у нас всё же есть жрачка каждый день и какое-никакое жалование!#
+answerConditionPolitical | 
+answerConditionKampfbund | 
+effectPolitical | conservative+1 nationalist+1#nationalist+2 socialist+1#nationalist+2##
+effectKampfbund | SA+1##SA+2##
+effectMortality | 
+effectCustody | 
+effectCustodyTerm | 
+effectKampfbundJoinOrLeft | 
+effectMoney | 
+effectJob | 
+effectOccasion | 
+effectStatus | 
+effectTrigger | 

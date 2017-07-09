@@ -1,0 +1,26 @@
+conditionTrigger | 
+conditiondDate | 1920-04
+conditionPeriod | 
+conditionOccasion | 
+conditionStatus | Ruhr-Rote-Armee-1920+
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | После провала путча Каппа-Лютвица не все красноармейцы Рура готовы были сложить оружие и передать власть правительству Эберта-Брауна. Вопрос «что дальше?» встал и перед Вами:
+pictureName | 545730565_Kapp Putsch Members of the Red Ruhr Army in the town of Wesel a stronghold of the Freikorps March 1920.jpg
+answerText | Мы разбили путчистов – дело сделано, можно расходиться по домам.#Это только начало: теперь нужно удержать Рур и установить власть советов по всей Германии.#С винтовкой в руках как-то увереннее себя чувствуешь, подождём – посмотрим как будет развиваться ситуация.##
+answerConditionPolitical | 
+answerConditionKampfbund | 
+effectPolitical | #socialist+2###
+effectKampfbund | #RFB+2#RFB+1##
+effectMortality | #0,3#0,1##
+effectCustody | 
+effectCustodyTerm | 
+effectKampfbundJoinOrLeft | 
+effectMoney | 
+effectJob | 
+effectOccasion | 
+effectStatus | Ruhr-Rote-Armee-1920-####
+effectTrigger | #Ruhr-Rote-Armee-1920#Ruhr-Rote-Armee-1920##

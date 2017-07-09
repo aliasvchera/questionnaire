@@ -1,0 +1,26 @@
+conditionTrigger | Schupo-Attentat-Individueller-Terror
+conditiondDate | 
+conditionPeriod | 
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 3
+captionText | 
+mainText | Он равнодушно пожал плечами: «В принципе, отвергает. Но тут уже, фактически, идёт скрытая гражданская война. К тому же, это ответ на террор полиции. Итак, твоё решение?»
+pictureName | Hermann Hagendorf.jpg
+answerText | Я послушаю следующего свидетеля.#Да, Свинные щёки должен получить по заслугам. Я с вами.#Нет, я не буду в этом участвовать.##
+answerConditionPolitical | 
+answerConditionKampfbund | 
+effectPolitical | 
+effectKampfbund | #RFB+3#RFB-2##
+effectMortality | #0,3###
+effectCustody | 
+effectCustodyTerm | 
+effectKampfbundJoinOrLeft | 
+effectMoney | 
+effectJob | 
+effectOccasion | 
+effectStatus | #Schupo-Attentat-Consent+#Schupo-Attentat-Refusal+##
+effectTrigger | Schupo-Attentat-Zeugenaussage#Schupo-Attentat-Consent#Schupo-Attentat-Refusal##

@@ -1,0 +1,26 @@
+conditionTrigger | Reichskanzler-Hitler
+conditiondDate | 
+conditionPeriod | 
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | RFB- RB- STA- SA- 
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 30 января 1933 года
+mainText | В тот же день СА, СС и "Стальной шлем" отпраздновали это событие триумфальным ночным факельным шествием через центр Берлина. Наблюдая этот марш у Бранденбургских ворот, Вы говорили себе:
+pictureName | fackelzug_Berlin, 30. Januar 1933.jpg
+answerText | Это правительство не продержится дольше своих предшественников.#Это конец! Всё, я эмигрирую из Германии куда угодно!#Терять нам всё равно нечего. Посмотрим, что из этого получится.#Неужели политическим распрям и поножовщине на улицах теперь наступит конец? Если так, то это действительно национальная революция, которая вернёт единство нашей измученной нации!#
+answerConditionPolitical | 
+answerConditionKampfbund | 
+effectPolitical | 
+effectKampfbund | 
+effectMortality | 0,5#0,5#0,5#0,5#
+effectCustody | 
+effectCustodyTerm | 
+effectKampfbundJoinOrLeft | 
+effectMoney | 
+effectJob | 
+effectOccasion | 
+effectStatus | 
+effectTrigger | Disloyal-philistine#Emigrant#Neutral-philistine#Loyal-philistine#

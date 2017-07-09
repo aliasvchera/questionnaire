@@ -1,0 +1,26 @@
+conditionTrigger | 
+conditiondDate | 
+conditionPeriod | 1933-02#1933-03#m
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | RB+
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | Нацисты и немецкие националисты уже месяц не прекращают свою радостную вакханалию по случаю взятия власти. Проходя через площадь, Вы увидели как штальхельмер и штурмовик рвали чёрно-красно-золотой флаг.
+pictureName | NationalSocialists tearing the republican flag before the town hall in Hamburg Germany in March 1933.jpeg
+answerText | Накинусь с кулаками на беснующуюся мразь.#Крикну: «Эй, имейте совесть! Это же всё-таки государственный флаг!»#Мы сдались без сопротивления. Теперь придётся расплачиваться: постою, стоически понаблюдаю – развлекусь мазохизмом.#На это невозможно смотреть. Молча уйду.#
+answerConditionPolitical | 
+answerConditionKampfbund | 
+effectPolitical | republican+3#republican+1###
+effectKampfbund | RB+3#RB+1##RB-1#
+effectMortality | 0,5####
+effectCustody | 
+effectCustodyTerm | 
+effectKampfbundJoinOrLeft | 
+effectMoney | 
+effectJob | 
+effectOccasion | 
+effectStatus | 
+effectTrigger | Arrested-Sozi####

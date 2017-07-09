@@ -1,0 +1,8 @@
+currentYear | 1918
+currentMonth | 10
+isDead | false
+inCustody | false
+currentMessage | null#null
+gameMoment | -2
+triggerName | 
+triggerGameMoment | 

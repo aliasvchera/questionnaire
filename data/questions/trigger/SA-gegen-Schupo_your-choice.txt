@@ -1,0 +1,26 @@
+conditionTrigger | SA-gegen-Schupo
+conditiondDate | 
+conditionPeriod | 
+conditionOccasion | 
+conditionStatus | 
+conditionKampfbund | SA+
+conditionPolitical | 
+conditionActivism | 
+usedMax | 1
+captionText | 
+mainText | Выйдя из здания, где проходило собрание, Вы обнаружили надвигающиеся шеренги полиции. «Сейчас будет жарко» – промелькнуло в мозгу. Что делать?
+pictureName | 16.jpg
+answerText | «СА, вперёд!» Сомкнуть ряды!#Всем рассеяться, выбираемся отсюда через дворы и переулки!#Спокойно! Всем стоять на месте! Сейчас постараемся тихо-мирно выяснить, что им от нас надо.#(про себя) Теперь каждый за себя. Нужно делать ноги, иначе будет туго – «синие» запросто голову дубинками разобьют.#
+answerConditionPolitical | 
+answerConditionKampfbund | 
+effectPolitical | 
+effectKampfbund | SA+2##SA-1#SA-2#
+effectMortality | 0,2#0,05###
+effectCustody | 
+effectCustodyTerm | 
+effectKampfbundJoinOrLeft | 
+effectMoney | 
+effectJob | 
+effectOccasion | 
+effectStatus | 
+effectTrigger | 
